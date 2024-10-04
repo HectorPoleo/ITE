@@ -6,7 +6,7 @@
 
 - ___Adrian Rodríguez___ El abuelo
 
-- ___Diego Febles___ Fishuss rend enyoyer
+- ___Diego Febles___ Fishuss rend enjoyer
 
 - ___Marcos Hernandez___ JOJOS sisthty
 
