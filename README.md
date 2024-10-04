@@ -6,11 +6,11 @@
 
 - ___Adrian Rodríguez___ El abuelo
 
-- ___Diego Febles___ Fishuss rend enjoyer
+- ___Diego Febles___ El Decimo portador
 
 - ___Marcos Hernandez___ JOJOS sisthty
 
-- ___Héctor Poleo___ La carreta
+- ___Héctor Poleo___ (Reyene aqui)
 
 # Actividad 1
 
