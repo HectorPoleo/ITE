@@ -76,4 +76,34 @@ Una vez terminada la reparación, Martín y Luis explican al encargado del talle
 
 - ¿Qué podría hacer esta empresa de envasado de fruta para realizar un control del riesgos?
 
+
+
+
+# Ejemplo
+
+Para abordar la situación descrita, se deben seguir estos pasos:
+
+    Nombramiento de Responsables de Prevención:
+        Consultar la normativa de prevención para definir si es necesario crear un comité de seguridad o nombrar delegados de prevención, y si estos deben ser representantes de los trabajadores.
+
+    Realizar una Evaluación de Riesgos:
+        Identificar y evaluar los riesgos eléctricos en la empresa, especialmente en la cadena de envasado.
+
+    Implementar Medidas Preventivas:
+        Corregir las deficiencias observadas, como el uso de adaptadores que sobrecargan la instalación y la falta de canalización protectora para los cables.
+
+    Reparar la Instalación Eléctrica:
+        Sustituir los cables dañados, asegurando que todos los trabajos se realicen con la corriente desconectada y siguiendo protocolos de seguridad.
+
+    Formación y Concienciación:
+        Proporcionar formación a los trabajadores sobre la importancia de la seguridad eléctrica y las prácticas adecuadas para prevenir accidentes.
+
+    Elaborar un Informe:
+        Documentar las anomalías encontradas y las acciones correctivas recomendadas, y enviarlo al encargado de la industria de envasado.
+
+    Establecer un Mantenimiento Regular:
+        Implementar un programa de mantenimiento preventivo para evitar futuras averías y asegurar el buen estado de las instalaciones eléctricas.
+
+    Supervisión Continua:
+        Supervisar que se sigan las medidas preventivas y se mantenga la seguridad en el lugar de trabajo.
 </div>
