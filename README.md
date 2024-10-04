@@ -4,11 +4,11 @@
 # Tarea online FOL07
 ***\~\~Integrantes de la actividad:\~\~***
 
-- ___Adrian Rodríguez___ 1999
+- ___Adrian Rodríguez___
 
-- ___Diego Febles___ Seaking pararrayos
+- ___Diego Febles___
 
-- ___Marcos Hernandez___ ni
+- ___Marcos Hernandez___
 
 - ___Héctor Poleo___
 
