@@ -4,13 +4,13 @@
 # Tarea online FOL07
 ***\~\~Integrantes de la actividad:\~\~***
 
-- ___Adrian Rodríguez___
+- ___Adrian Rodríguez___ El abuelo
 
-- ___Diego Febles___
+- ___Diego Febles___ Fishuss rend enyoyer
 
-- ___Marcos Hernandez___
+- ___Marcos Hernandez___ JOJOS sisthty
 
-- ___Héctor Poleo___
+- ___Héctor Poleo___ La carreta
 
 # Actividad 1
 
