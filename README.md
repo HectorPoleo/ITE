@@ -4,7 +4,7 @@
 # Tarea online FOL07
 ***\~\~Integrantes de la actividad:\~\~***
 
-- ___Adrian Rodríguez___ El abuelo
+- ___Adrian Rodríguez___ Tentomon enjoyer
 
 - ___Diego Febles___ El Decimo portador
 
