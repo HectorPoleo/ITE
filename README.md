@@ -36,7 +36,11 @@ En la empresa donde trabaja Luis como administrativo, prestan sus servicios un t
 
 # ACTIVIDAD 4.
 
-Durante una visita a la empresa, la Inspección de Trabajo ha comprobado que la empresa no ha realizado la evaluación de riesgos del puesto de operaria en instalaciones que está ocupado por una mujer embarazada de 6 meses. ¿Podría constituir esta circunstancia una infracción administrativa? Si es así indica si se trataría de una infracción leve, grave o muy grave y el importe de la sanción aplicable.
+*Durante una visita a la empresa, la Inspección de Trabajo ha comprobado que la empresa no ha realizado la evaluación de riesgos del puesto de operaria en instalaciones que está ocupado por una mujer embarazada de 6 meses. ¿Podría constituir esta circunstancia una infracción administrativa? Si es así indica si se trataría de una infracción leve, grave o muy grave y el importe de la sanción aplicable.*
+
+La falta de evaluación de riesgos en el puesto de trabajo de una mujer embarazada puede ser considerada una infracción administrativa. Según el artículo 14 de la Ley de Prevención de Riesgos Laborales (LPRL), el empresario debe garantizar la seguridad y salud de los trabajadores, lo que incluye realizar evaluaciones de riesgos.
+
+No llevar a cabo esta evaluación se clasifica como una infracción grave. Las sanciones por infracciones graves, según el artículo 46 de la LPRL, pueden variar entre 1,251 y 12,500 euros. La especial protección de las trabajadoras embarazadas puede agravar la situación y afectar la cuantía de la sanción.
 
 # ACTIVIDAD 5.
 
