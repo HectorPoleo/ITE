@@ -15,9 +15,7 @@
 # ACTIVIDAD 1
 
 Luis ha finalizado el mismo Ciclo Formativo que el que tú estás estudiando ahora. Indica si tiene la obligación de realizar una evaluación de riesgos. Basándote en la LPRL, debes razonar tu respuesta.
-```html
 
-```
 # ACTIVIDAD 2.
 
 *En una empresa de servicios energéticos trabajan 7 personas incluido el propietario.*
