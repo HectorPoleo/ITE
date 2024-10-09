@@ -14,7 +14,14 @@
 
 # ACTIVIDAD 1
 
-Luis ha finalizado el mismo Ciclo Formativo que el que tú estás estudiando ahora. Indica si tiene la obligación de realizar una evaluación de riesgos. Basándote en la LPRL, debes razonar tu respuesta.
+*Luis ha finalizado el mismo Ciclo Formativo que el que tú estás estudiando ahora. Indica si tiene la obligación de realizar una evaluación de riesgos. Basándote en la LPRL, debes razonar tu respuesta.*
+
+La LPRL establece que los empleadores deben garantizar la seguridad y salud de sus trabajadores mediante la evaluación de los riesgos laborales y la implementación de medidas preventivas adecuadas.
+
+En el caso de Luis, si él comienza a trabajar en una empresa, será responsabilidad de dicha empresa realizar la evaluación de riesgos correspondiente a su puesto de trabajo. Esta evaluación debe identificar los riesgos específicos asociados a las tareas que realizará y establecer las medidas preventivas necesarias para minimizar dichos riesgos.
+
+Por lo tanto, Luis no tiene la obligación de realizar una evaluación de riesgos por sí mismo tras finalizar su ciclo formativo. Sin embargo, es importante que esté informado sobre los riesgos laborales y las medidas preventivas, ya que la formación y la información son elementos clave en la prevención de riesgos laborales.
+
 
 # ACTIVIDAD 2.
 
