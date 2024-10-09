@@ -34,6 +34,26 @@ Luis ha finalizado el mismo Ciclo Formativo que el que tú estás estudiando aho
 
 En la empresa donde trabaja Luis como administrativo, prestan sus servicios un total de 55 personas. ¿Cuántos delegados o delegadas de prevención le corresponden y cuántos miembros tendrá el comité de seguridad y salud?
 
+Según la normativa de prevención de riesgos laborales en España, el número de delegados o delegadas de prevención y la composición del comité de seguridad y salud en una empresa dependen del tamaño de la plantilla.
+
+ **Delegados/as de prevención:**
+El número de delegados/as de prevención se establece de la siguiente manera, según el número de trabajadores de la empresa:
+- De 50 a 100 trabajadores: **2 delegados/as de prevención**.
+
+Como en la empresa de Luis hay 55 personas, le corresponden **2 delegados/as de prevención**.
+
+**Comité de Seguridad y Salud:**
+El comité de seguridad y salud está formado por:
+- Los delegados/as de prevención.
+- El mismo número de representantes designados por el empresario.
+
+Por lo tanto, si hay **2 delegados/as de prevención**, el comité de seguridad y salud estará compuesto por **4 miembros**: 2 delegados/as de prevención y 2 representantes del empresario.
+
+ **Resumen:**
+- **Delegados/as de prevención**: 2.
+- **Comité de Seguridad y Salud**: 4 miembros (2 delegados/as de prevención + 2 representantes del empresario).
+
+
 # ACTIVIDAD 4.
 
 *Durante una visita a la empresa, la Inspección de Trabajo ha comprobado que la empresa no ha realizado la evaluación de riesgos del puesto de operaria en instalaciones que está ocupado por una mujer embarazada de 6 meses. ¿Podría constituir esta circunstancia una infracción administrativa? Si es así indica si se trataría de una infracción leve, grave o muy grave y el importe de la sanción aplicable.*
