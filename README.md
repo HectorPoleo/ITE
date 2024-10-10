@@ -16,11 +16,13 @@
 
 *Luis ha finalizado el mismo Ciclo Formativo que el que tú estás estudiando ahora. Indica si tiene la obligación de realizar una evaluación de riesgos. Basándote en la LPRL, debes razonar tu respuesta.*
 
+```
 La LPRL establece que los empleadores deben garantizar la seguridad y salud de sus trabajadores mediante la evaluación de los riesgos laborales y la implementación de medidas preventivas adecuadas.
 
 En el caso de Luis, si él comienza a trabajar en una empresa, será responsabilidad de dicha empresa realizar la evaluación de riesgos correspondiente a su puesto de trabajo. Esta evaluación debe identificar los riesgos específicos asociados a las tareas que realizará y establecer las medidas preventivas necesarias para minimizar dichos riesgos.
 
 Por lo tanto, Luis no tiene la obligación de realizar una evaluación de riesgos por sí mismo tras finalizar su ciclo formativo. Sin embargo, es importante que esté informado sobre los riesgos laborales y las medidas preventivas, ya que la formación y la información son elementos clave en la prevención de riesgos laborales.
+```
 
 
 # ACTIVIDAD 2.
@@ -30,13 +32,14 @@ Por lo tanto, Luis no tiene la obligación de realizar una evaluación de riesgo
 *¿Qué modalidad (o modalidades) de organización de la prevención se podría establecer en la empresa? Deberás basar tu respuesta en la regulación establecida para los órganos técnicos en prevención (artículo 10 y siguientes del Reglamento de los Servicios de Prevención)*
 
 *Según el artículo 10 y siguientes, las modalidades son:*
+```
 - __Servicio de Prevención Propio:__ Debido a que la empresa cuenta con menos de 10 empleados, se podría optar por crear un servicio de prevención propio. Esto permitiría al propietario o a una persona designada gestionar las funciones de prevención de riesgos laborales directamente.
 - __Servicio de Prevención Ajeno:__ Si la empresa decide no asumir internamente las funciones de prevención, puede contratar un servicio de prevención ajeno. Esta opción es válida y puede ser conveniente si se requiere una experiencia específica en la materia o si se prevé que la gestión de la prevención demande más recursos de los que puede proporcionar la empresa.
 - __Delegado de Prevención:__ Aunque en empresas con menos de 10 empleados no es obligatorio tener un delegado de prevención, la figura puede ser designada si los trabajadores así lo deciden, permitiendo una representación de los intereses en materia de seguridad y salud.
 - __Comité de Seguridad y Salud:__ Este órgano no es necesario en empresas de menos de 50 empleados. Sin embargo, se puede establecer una comunicación fluida entre el propietario y los trabajadores para abordar cuestiones de prevención.
 
  La elección entre estas modalidades dependerá de varios factores, como la capacidad del propietario para gestionar la prevención, los recursos disponibles y la necesidad de especialización en el tema.
-
+```
 # ACTIVIDAD 3.
 
 En la empresa donde trabaja Luis como administrativo, prestan sus servicios un total de 55 personas. ¿Cuántos delegados o delegadas de prevención le corresponden y cuántos miembros tendrá el comité de seguridad y salud?
@@ -112,7 +115,48 @@ Una vez terminada la reparación, Martín y Luis explican al encargado del talle
 - Evalúa los riesgos a los que han estado sometidos Martín y Luis en el trabajo que tienen que realizar, de acuerdo a la probabilidad y severidad de los daños que pueden sufrir.
 
 - ¿Qué podría hacer esta empresa de envasado de fruta para realizar un control del riesgos?
+```
+  ### Normativa de Prevención de Riesgos Laborales
 
+La normativa principal en España es la **Ley 31/1995 de Prevención de Riesgos Laborales** y su desarrollo reglamentario.
+
+### Representación de los Trabajadores
+
+1. **Comité de Seguridad y Salud**:
+   - **Competencias**: Participar en la identificación de riesgos, proponer medidas y promover formación.
+   - **Constitución**: En empresas con 50 o más trabajadores.
+
+2. **Delegados de Prevención**:
+   - **Competencias**: Velar por el cumplimiento de la normativa y realizar visitas de seguridad.
+   - **Elección**: Designados entre los representantes de los trabajadores.
+
+### Organización de Recursos Preventivos
+
+El empresario debe:
+
+- Designar un Servicio de Prevención.
+- Formar a los trabajadores.
+- Realizar evaluaciones de riesgo.
+- Nombrar Delegados de Prevención.
+
+### Evaluación de Riesgos para Martín y Luis
+
+1. **Riesgo Eléctrico**: Alta probabilidad y severidad (peligro de electrocución).
+2. **Resbalones y Caídas**: Alta probabilidad (suelo húmedo), severidad media.
+3. **Manipulación de Herramientas**: Media probabilidad y severidad.
+4. **Contacto con Componentes Dañados**: Media probabilidad, alta severidad.
+
+### Control de Riesgos en la Empresa de Envasado
+
+1. **Revisión de la Instalación Eléctrica**: Asegurar que los equipos son seguros.
+2. **Formación**: Capacitar a los trabajadores sobre riesgos eléctricos.
+3. **Protección Eléctrica**: Restablecer interruptores diferenciales.
+4. **Eliminar Adaptadores**: Evitar sobrecargas.
+5. **Mantenimiento Regular**: Limpiar y asegurar áreas de trabajo.
+6. **Evaluaciones de Riesgo**: Realizar periódicamente.
+
+Estas acciones mejorarían la seguridad laboral y minimizarían riesgos en la empresa.
+```
 
 
 </div>
