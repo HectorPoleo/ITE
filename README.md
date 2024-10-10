@@ -28,13 +28,12 @@
 
 *Luis ha finalizado el mismo Ciclo Formativo que el que tú estás estudiando ahora. Indica si tiene la obligación de realizar una evaluación de riesgos. Basándote en la LPRL, debes razonar tu respuesta.*
 
-```
 La LPRL establece que los empleadores deben garantizar la seguridad y salud de sus trabajadores mediante la evaluación de los riesgos laborales y la implementación de medidas preventivas adecuadas.
 
 En el caso de Luis, si él comienza a trabajar en una empresa, será responsabilidad de dicha empresa realizar la evaluación de riesgos correspondiente a su puesto de trabajo. Esta evaluación debe identificar los riesgos específicos asociados a las tareas que realizará y establecer las medidas preventivas necesarias para minimizar dichos riesgos.
 
 Por lo tanto, Luis no tiene la obligación de realizar una evaluación de riesgos por sí mismo tras finalizar su ciclo formativo. Sin embargo, es importante que esté informado sobre los riesgos laborales y las medidas preventivas, ya que la formación y la información son elementos clave en la prevención de riesgos laborales.
-```
+
 
 
 # ACTIVIDAD 2.
@@ -44,20 +43,20 @@ Por lo tanto, Luis no tiene la obligación de realizar una evaluación de riesgo
 *¿Qué modalidad (o modalidades) de organización de la prevención se podría establecer en la empresa? Deberás basar tu respuesta en la regulación establecida para los órganos técnicos en prevención (artículo 10 y siguientes del Reglamento de los Servicios de Prevención)*
 
 *Según el artículo 10 y siguientes, las modalidades son:*
-```
+
 - Servicio de Prevención Propio: Debido a que la empresa cuenta con menos de 10 empleados, se podría optar por crear un servicio de prevención propio. Esto permitiría al propietario o a una persona designada gestionar las funciones de prevención de riesgos laborales directamente.
 - Servicio de Prevención Ajeno: Si la empresa decide no asumir internamente las funciones de prevención, puede contratar un servicio de prevención ajeno. Esta opción es válida y puede ser conveniente si se requiere una experiencia específica en la materia o si se prevé que la gestión de la prevención demande más recursos de los que puede proporcionar la empresa.
 - Delegado de Prevención: Aunque en empresas con menos de 10 empleados no es obligatorio tener un delegado de prevención, la figura puede ser designada si los trabajadores así lo deciden, permitiendo una representación de los intereses en materia de seguridad y salud.
 - Comité de Seguridad y Salud: Este órgano no es necesario en empresas de menos de 50 empleados. Sin embargo, se puede establecer una comunicación fluida entre el propietario y los trabajadores para abordar cuestiones de prevención.
 
  La elección entre estas modalidades dependerá de varios factores, como la capacidad del propietario para gestionar la prevención, los recursos disponibles y la necesidad de especialización en el tema.
-```
+
 # ACTIVIDAD 3.
 
 En la empresa donde trabaja Luis como administrativo, prestan sus servicios un total de 55 personas. ¿Cuántos delegados o delegadas de prevención le corresponden y cuántos miembros tendrá el comité de seguridad y salud?
 
 Según la normativa de prevención de riesgos laborales en España, el número de delegados o delegadas de prevención y la composición del comité de seguridad y salud en una empresa dependen del tamaño de la plantilla.
-```
+
  Delegados/as de prevención:
 El número de delegados/as de prevención se establece de la siguiente manera, según el número de trabajadores de la empresa:
 - De 50 a 100 trabajadores: 2 delegados/as de prevención.
@@ -74,16 +73,16 @@ Por lo tanto, si hay 2 delegados/as de prevención, el comité de seguridad y sa
   Resumen:
 - Delegados/as de prevención: 2.
 - Comité de Seguridad y Salud: 4 miembros (2 delegados/as de prevención + 2 representantes del empresario).
-```
+
 
 # ACTIVIDAD 4.
 
 *Durante una visita a la empresa, la Inspección de Trabajo ha comprobado que la empresa no ha realizado la evaluación de riesgos del puesto de operaria en instalaciones que está ocupado por una mujer embarazada de 6 meses. ¿Podría constituir esta circunstancia una infracción administrativa? Si es así indica si se trataría de una infracción leve, grave o muy grave y el importe de la sanción aplicable.*
-```
+
 La falta de evaluación de riesgos en el puesto de trabajo de una mujer embarazada puede ser considerada una infracción administrativa. Según el artículo 14 de la Ley de Prevención de Riesgos Laborales (LPRL), el empresario debe garantizar la seguridad y salud de los trabajadores, lo que incluye realizar evaluaciones de riesgos.
 
 No llevar a cabo esta evaluación se clasifica como una infracción grave. Las sanciones por infracciones graves, según el artículo 46 de la LPRL, pueden variar entre 1,251 y 12,500 euros. La especial protección de las trabajadoras embarazadas puede agravar la situación y afectar la cuantía de la sanción.
-```
+
 
 # ACTIVIDAD 5.
 
@@ -128,7 +127,7 @@ Una vez terminada la reparación, Martín y Luis explican al encargado del talle
 - Evalúa los riesgos a los que han estado sometidos Martín y Luis en el trabajo que tienen que realizar, de acuerdo a la probabilidad y severidad de los daños que pueden sufrir.
 
 - ¿Qué podría hacer esta empresa de envasado de fruta para realizar un control del riesgos?
-```
+
   ### Normativa de Prevención de Riesgos Laborales
 
 La normativa principal en España es la **Ley 31/1995 de Prevención de Riesgos Laborales** y su desarrollo reglamentario.
@@ -169,7 +168,7 @@ El empresario debe:
 6. **Evaluaciones de Riesgo**: Realizar periódicamente.
 
 Estas acciones mejorarían la seguridad laboral y minimizarían riesgos en la empresa.
-```
+
 
 
 </div>
