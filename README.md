@@ -9,8 +9,8 @@
 - ___Diego Febles___ El Decimo portador
 
 - ___Marcos Hernandez___ JOJOS sisthty
-
-- ___Héctor Poleo___ (Reyene aqui)
+- ___Héctor Poleo___ El portero Legendario
+- ___Giancarlo Trezza___ Astora
 
 # ACTIVIDAD 1
 
@@ -45,32 +45,33 @@ Por lo tanto, Luis no tiene la obligación de realizar una evaluación de riesgo
 En la empresa donde trabaja Luis como administrativo, prestan sus servicios un total de 55 personas. ¿Cuántos delegados o delegadas de prevención le corresponden y cuántos miembros tendrá el comité de seguridad y salud?
 
 Según la normativa de prevención de riesgos laborales en España, el número de delegados o delegadas de prevención y la composición del comité de seguridad y salud en una empresa dependen del tamaño de la plantilla.
-
- **Delegados/as de prevención:**
+```
+ Delegados/as de prevención:
 El número de delegados/as de prevención se establece de la siguiente manera, según el número de trabajadores de la empresa:
-- De 50 a 100 trabajadores: **2 delegados/as de prevención**.
+- De 50 a 100 trabajadores: 2 delegados/as de prevención.
 
-Como en la empresa de Luis hay 55 personas, le corresponden **2 delegados/as de prevención**.
+Como en la empresa de Luis hay 55 personas, le corresponden 2 delegados/as de prevención.
 
-**Comité de Seguridad y Salud:**
+- Comité de Seguridad y Salud:
 El comité de seguridad y salud está formado por:
 - Los delegados/as de prevención.
 - El mismo número de representantes designados por el empresario.
 
-Por lo tanto, si hay **2 delegados/as de prevención**, el comité de seguridad y salud estará compuesto por **4 miembros**: 2 delegados/as de prevención y 2 representantes del empresario.
+Por lo tanto, si hay 2 delegados/as de prevención, el comité de seguridad y salud estará compuesto por 4 miembros: 2 delegados/as de prevención y 2 representantes del empresario.
 
- **Resumen:**
-- **Delegados/as de prevención**: 2.
-- **Comité de Seguridad y Salud**: 4 miembros (2 delegados/as de prevención + 2 representantes del empresario).
-
+  Resumen:
+- Delegados/as de prevención: 2.
+- Comité de Seguridad y Salud: 4 miembros (2 delegados/as de prevención + 2 representantes del empresario).
+```
 
 # ACTIVIDAD 4.
 
 *Durante una visita a la empresa, la Inspección de Trabajo ha comprobado que la empresa no ha realizado la evaluación de riesgos del puesto de operaria en instalaciones que está ocupado por una mujer embarazada de 6 meses. ¿Podría constituir esta circunstancia una infracción administrativa? Si es así indica si se trataría de una infracción leve, grave o muy grave y el importe de la sanción aplicable.*
-
+```
 La falta de evaluación de riesgos en el puesto de trabajo de una mujer embarazada puede ser considerada una infracción administrativa. Según el artículo 14 de la Ley de Prevención de Riesgos Laborales (LPRL), el empresario debe garantizar la seguridad y salud de los trabajadores, lo que incluye realizar evaluaciones de riesgos.
 
 No llevar a cabo esta evaluación se clasifica como una infracción grave. Las sanciones por infracciones graves, según el artículo 46 de la LPRL, pueden variar entre 1,251 y 12,500 euros. La especial protección de las trabajadoras embarazadas puede agravar la situación y afectar la cuantía de la sanción.
+```
 
 # ACTIVIDAD 5.
 
