@@ -4,9 +4,13 @@
 # Tarea online FOL07
 ***\~\~Integrantes de la actividad:\~\~***
 
-- ___Adrian Rodríguez___ Scolipede
+- ___Adrian Rodríguez___
 
-- ___Diego Febles___ Tyrantrum
+  ![Scolipede](https://img.pokemondb.net/sprites/sword-shield/normal/scolipede.png)
+
+- ___Diego Febles___
+
+  [![Tyrantrum](https://img.pokemondb.net/sprites/sword-shield/normal/tyrantrum.png)](https://pokemondb.net/pokedex/tyrantrum)
 
 - ___Marcos Hernandez___ Lucario
   
