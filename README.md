@@ -4,13 +4,15 @@
 # Tarea online FOL07
 ***\~\~Integrantes de la actividad:\~\~***
 
-- ___Adrian Rodríguez___ Tentomon enjoyer
+- ___Adrian Rodríguez___ Scolipede
 
-- ___Diego Febles___ El Decimo portador
+- ___Diego Febles___ Tyrantrum
 
-- ___Marcos Hernandez___ JOJOS sisthty
-- ___Héctor Poleo___ Fan de loppunny
-- ___Giancarlo Trezza___ Astora
+- ___Marcos Hernandez___ Lucario
+  
+- ___Héctor Poleo___ Leafeon
+  
+- ___Giancarlo Trezza___ Swampert
 
 # ACTIVIDAD 1
 
