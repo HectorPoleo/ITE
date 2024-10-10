@@ -33,10 +33,10 @@ Por lo tanto, Luis no tiene la obligación de realizar una evaluación de riesgo
 
 *Según el artículo 10 y siguientes, las modalidades son:*
 ```
-- __Servicio de Prevención Propio:__ Debido a que la empresa cuenta con menos de 10 empleados, se podría optar por crear un servicio de prevención propio. Esto permitiría al propietario o a una persona designada gestionar las funciones de prevención de riesgos laborales directamente.
-- __Servicio de Prevención Ajeno:__ Si la empresa decide no asumir internamente las funciones de prevención, puede contratar un servicio de prevención ajeno. Esta opción es válida y puede ser conveniente si se requiere una experiencia específica en la materia o si se prevé que la gestión de la prevención demande más recursos de los que puede proporcionar la empresa.
-- __Delegado de Prevención:__ Aunque en empresas con menos de 10 empleados no es obligatorio tener un delegado de prevención, la figura puede ser designada si los trabajadores así lo deciden, permitiendo una representación de los intereses en materia de seguridad y salud.
-- __Comité de Seguridad y Salud:__ Este órgano no es necesario en empresas de menos de 50 empleados. Sin embargo, se puede establecer una comunicación fluida entre el propietario y los trabajadores para abordar cuestiones de prevención.
+- Servicio de Prevención Propio: Debido a que la empresa cuenta con menos de 10 empleados, se podría optar por crear un servicio de prevención propio. Esto permitiría al propietario o a una persona designada gestionar las funciones de prevención de riesgos laborales directamente.
+- Servicio de Prevención Ajeno: Si la empresa decide no asumir internamente las funciones de prevención, puede contratar un servicio de prevención ajeno. Esta opción es válida y puede ser conveniente si se requiere una experiencia específica en la materia o si se prevé que la gestión de la prevención demande más recursos de los que puede proporcionar la empresa.
+- Delegado de Prevención: Aunque en empresas con menos de 10 empleados no es obligatorio tener un delegado de prevención, la figura puede ser designada si los trabajadores así lo deciden, permitiendo una representación de los intereses en materia de seguridad y salud.
+- Comité de Seguridad y Salud: Este órgano no es necesario en empresas de menos de 50 empleados. Sin embargo, se puede establecer una comunicación fluida entre el propietario y los trabajadores para abordar cuestiones de prevención.
 
  La elección entre estas modalidades dependerá de varios factores, como la capacidad del propietario para gestionar la prevención, los recursos disponibles y la necesidad de especialización en el tema.
 ```
