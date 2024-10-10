@@ -9,7 +9,7 @@
 - ___Diego Febles___ El Decimo portador
 
 - ___Marcos Hernandez___ JOJOS sisthty
-- ___Héctor Poleo___ El portero Legendario
+- ___Héctor Poleo___ Fan de loppunny
 - ___Giancarlo Trezza___ Astora
 
 # ACTIVIDAD 1
