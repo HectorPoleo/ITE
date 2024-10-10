@@ -10,13 +10,19 @@
 
 - ___Diego Febles___
 
-  [![Tyrantrum](https://img.pokemondb.net/sprites/sword-shield/normal/tyrantrum.png)](https://pokemondb.net/pokedex/tyrantrum)
+  [![Tyrantrum](https://img.pokemondb.net/sprites/sword-shield/normal/tyrantrum.png)](https://pokemondb.net/pokedex/tyrantrum) 
 
-- ___Marcos Hernandez___ Lucario
+- ___Marcos Hernandez___
+
+  [![Lucario](https://img.pokemondb.net/sprites/sword-shield/normal/lucario.png)](https://pokemondb.net/pokedex/lucario)
   
-- ___Héctor Poleo___ Leafeon
+- ___Héctor Poleo___
+
+  [![Leafeon](https://img.pokemondb.net/sprites/sword-shield/normal/leafeon.png)](https://pokemondb.net/pokedex/leafeon)
   
-- ___Giancarlo Trezza___ Swampert
+- ___Giancarlo Trezza___
+
+  [![Arcanine](https://img.pokemondb.net/sprites/sword-shield/normal/arcanine.png)](https://pokemondb.net/pokedex/arcanine)
 
 # ACTIVIDAD 1
 
