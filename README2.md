@@ -26,9 +26,9 @@
 
 # ACTIVIDAD 1
 
-*Describe tres factores de riesgo a los que está expuesto un trabajador o trabajadora que presta sus servicios en puestos de trabajo del sector profesional del título de técnico que estas estudiando. Indica cuáles son sus consecuencias, cómo puede afectar a la salud del trabajador o de la trabajadora, qué técnica de prevención es la más adecuada y cuál es la medida preventiva que debe utilizarse.
+*Describe tres factores de riesgo a los que está expuesto un trabajador o trabajadora que presta sus servicios en puestos de trabajo del sector profesional del título de técnico que estas estudiando. Indica cuáles son sus consecuencias, cómo puede afectar a la salud del trabajador o de la trabajadora, qué técnica de prevención es la más adecuada y cuál es la medida preventiva que debe utilizarse.*
 
-Los datos puedes reflejarlos en una tabla como la siguiente:*
+*Los datos puedes reflejarlos en una tabla como la siguiente:*
 
 | FACTOR DE RIESGO | CONSECUENCIA |DAÑOS A LA SALUD|TÉCNICA DE PREVENCIÓN|MEDIDAS PREVENTIVAS|
 |----------|----------|----------|----------|----------|
@@ -38,11 +38,11 @@ Los datos puedes reflejarlos en una tabla como la siguiente:*
 
 
 # ACTIVIDAD 2
-*En una empresa se ha producido un incendio que ha afectado a una de las oficinas. Se ha activado el dispositivo contra incendios que hay instalado en el techo.
+*En una empresa se ha producido un incendio que ha afectado a una de las oficinas. Se ha activado el dispositivo contra incendios que hay instalado en el techo.*
 
-Se pregunta:
+*Se pregunta:*
 
-¿Ante qué tipo de emergencia nos encontramos?
+*¿Ante qué tipo de emergencia nos encontramos?
 ¿Qué personal será el encargado de intentar apagar el incendio con los extintores antes de que lleguen los bomberos, así como de evacuar el edificio afectado?
 Indica que medida de protección colectiva aparece en el supuesto.
 Busca en Internet o en la Guía de Actuación en Caso de Emergencia, como actuar para controlar un pequeño fuego en una empresa manejando el extintor. Indica los pasos a seguir.
