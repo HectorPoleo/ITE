@@ -32,9 +32,9 @@
 
 | FACTOR DE RIESGO | CONSECUENCIA |DAÑOS A LA SALUD|TÉCNICA DE PREVENCIÓN|MEDIDAS PREVENTIVAS|
 |----------|----------|----------|----------|----------|
-| Incomodidad a la hora de escribir con el teclado    | Síndrome del tunel carpiano   | Cell 3   | Cell 3   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   | Cell 6   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   | Cell 6   | Cell 6   |
+|Sedentarismo| Aumento de peso, enfermedades cardiovasculares|Fatiga, problemas musculoesqueléticos|Promoción de actividad física|Incorporar pausas activas y ejercicios|
+| Estrés laboral	|  disminución del rendimiento  | Ansiedad, depresión   | Gestión del tiempo y tareas   | Establecer horarios de trabajo y pausas   |
+| Mala ergonomía    | Dolor de espalda, síndrome del túnel carpiano  | Lesiones musculoesqueléticas   | Mejora del entorno de trabajo   | Uso de mobiliario ergonómico y ajuste del puesto   |
 
 
 # ACTIVIDAD 2
