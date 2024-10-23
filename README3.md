@@ -48,25 +48,35 @@ emergencia cuando se realiza la llamada al 112?___
 ## 2. Evaluación primaria de las víctimas:
 ___- Los alumnos deben dividirse en equipos para evaluar a las 12
 personas involucradas en el accidente.___
+
 ___- Clasifica a las víctimas según la escala de triage START (Simple
 Triage And Rapid Treatment), considerando las condiciones de cada
 víctima:___
+
 ___- Conductor de la furgoneta: Está consciente, con fractura visible
 en la pierna derecha y dificultad respiratoria leve.___
+
 ___- Operario 1: Inconsciente, con sangrado evidente en la cabeza.___
+
 ___- Operario 2: Consciente, desorientado, con quemaduras en los___
+
 ___brazos provocadas por la explosión de una batería de litio.___
 ___- Conductor del autobús: Consciente, pero con dolor torácico
 agudo. Menciona que tiene antecedentes cardíacos.___
+
 ___- Estudiante 1 (14 años): Consciencia alterada, presenta
 respiración rápida y poco profunda.___
+
 ___- Estudiante 2 (13 años): Consciente, pero con un corte profundo
 en la pierna que no deja de sangrar.___
+
 ___- Estudiantes 3, 4 y 5 (entre 13 y 15 años): Lesiones leves
 (contusiones y cortes menores), pero están conscientes y pueden
 caminar.___
+
 ___- Estudiantes 6, 7 y 8: Aparentemente ilesos, pero en estado de
 shock.___
+
 
 ## 3. Primeros auxilios: Aplicación práctica de técnicas
 ___- RCP (Reanimación Cardiopulmonar): Uno de los operarios de
