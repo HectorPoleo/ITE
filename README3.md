@@ -23,6 +23,7 @@
 
   [![Arcanine](https://img.pokemondb.net/sprites/sword-shield/normal/arcanine.png)](https://pokemondb.net/pokedex/arcanine)
 
+# ___Explicación___
 
 ___Supuesto práctico: Accidente de tráfico con múltiples víctimas.
 Accidente laboral in itinere.
@@ -35,7 +36,8 @@ autobús (1 conductor y 8 estudiantes).
 Tarea del grupo:: Organizar una respuesta efectiva a la emergencia,
 priorizando los primeros auxilios y gestionando correctamente a las
 víctimas hasta que lleguen los servicios de emergencia.___
-Instrucciones:
+
+# Instrucciones:
 
 ## 1. Evaluación inicial de la escena:
 - Al llegar al lugar del accidente, ¿Qué medidas iniciales de
