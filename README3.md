@@ -93,6 +93,7 @@ estudiantes pierde el conocimiento mientras esperan la llegada de la
 ambulancia?
 - ¿Qué harías si uno de los rescatistas (compañero del grupo) se
 corta al intentar ayudar a uno de los heridos?
+
 Objetivos del ejercicio:
 - Evaluar la capacidad para priorizar las intervenciones de primeros
 auxilios en función de la gravedad de las lesiones.
@@ -109,6 +110,31 @@ El desempeño del grupo será evaluado según los siguientes criterios:
 - Correcta priorización en la atención de las víctimas.
 - Calidad de la comunicación con las víctimas y servicios de
 emergencia.
-- Capacidad para adaptarse a situaciones imprevistas. 
+- Capacidad para adaptarse a situaciones imprevistas.
+
+```
+1. Estudiante que pierde el conocimiento mientras esperan la ambulancia
+Pasos a seguir:
+
+Evaluar la seguridad del entorno: Asegúrate de que no haya peligros adicionales alrededor.
+Evaluar el estado de consciencia: Si el estudiante está inconsciente pero respira, se debe colocar en posición lateral de seguridad para mantener sus vías respiratorias abiertas y evitar que se ahogue si vomita.
+Si no respira o no tiene pulso: Comenzar maniobras de RCP (Reanimación Cardiopulmonar) si tienes el entrenamiento necesario.
+Controlar la respiración y pulso regularmente: Hasta la llegada de la ambulancia, sigue monitoreando su estado.
+Evitar moverlo si no es absolutamente necesario, a menos que exista un peligro inminente.
+Proporcionar información precisa a los servicios de emergencia cuando lleguen, detallando lo que sucedió y cualquier cambio en el estado del estudiante.
+En resumen: Mantener vías respiratorias abiertas, controlar signos vitales, y proporcionar soporte hasta que lleguen los profesionales de la salud.
+
+2. Rescatista (compañero) que se corta al intentar ayudar
+Pasos a seguir:
+
+Detener la ayuda temporalmente: El compañero herido debe dejar de ayudar inmediatamente para atender su herida. No debe continuar asistiendo a los demás hasta que su herida esté controlada.
+Aplicar primeros auxilios al rescatista:
+Lavar la herida con agua limpia, si es posible, para eliminar cualquier suciedad.
+Aplicar presión sobre la herida con un vendaje limpio o una gasa para detener el sangrado.
+Cubrir la herida con una venda estéril.
+Si es profundo o grave: Solicitar atención médica adicional, ya sea con la llegada de la ambulancia o trasladando al rescatista herido al centro de salud más cercano.
+Reemplazar al rescatista: Si hay más personas disponibles para ayudar, asignar a otra persona para continuar con el rescate. Es importante que el rescatista herido no ponga en riesgo su salud ni la de los demás.
+En resumen: Es fundamental que el rescatista herido atienda su corte para evitar infecciones o complicaciones, y que otra persona continúe con el rescate si es necesario.
+```
   
 </div>
