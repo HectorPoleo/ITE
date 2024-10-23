@@ -77,6 +77,18 @@ caminar.___
 ___- Estudiantes 6, 7 y 8: Aparentemente ilesos, pero en estado de
 shock.___
 
+```
+1. Operario 1 (emergencia, inconsciente y con sangrado en la cabeza): Rojo. Está inconsciente y presenta un sangrado evidente en la cabeza, lo que indica una condición crítica que requiere atención inmediata.
+2. Estudiante 1 (consciencia alterada y respiración rápida): Rojo. Tiene la consciencia alterada y respiración rápida y poco profunda, lo que sugiere que está en una situación grave que puede comprometer su vida si no se trata de inmediato.
+3. Estudiante 2 (corte profundo en la pierna que sangra): Rojo. Tiene un corte profundo en la pierna que no deja de sangrar, lo que lo convierte en una víctima crítica que requiere atención urgente para controlar el sangrado.
+4. Conductor del autobús (consciente, dolor torácico y antecedentes cardíacos): Amarillo. Aunque está consciente, su dolor torácico agudo y antecedentes cardíacos lo colocan en una categoría que necesita atención, pero no de forma inmediata, ya que no presenta un riesgo inmediato de muerte.
+5. Operario 2 (consciente, desorientado y con quemaduras): Amarillo. Es consciente pero desorientado, con quemaduras. Su situación es preocupante, pero no tan urgente como los casos rojos.
+6. Conductor de la furgoneta (consciente, fractura y dificultad respiratoria leve): Amarillo. Aunque tiene una fractura visible en la pierna y dificultad respiratoria leve, está consciente. Su condición es seria, pero puede esperar un poco más para ser atendido.
+7. Estudiantes 3, 4 y 5 (lesiones leves, cortes leves, pueden caminar): Verde. Tienen lesiones leves (contusiones y cortes menores) y son capaces de caminar, por lo que no requieren atención urgente. Son considerados como pacientes que pueden esperar.
+8. Estudiantes 6, 7 y 8 (ilesos, pero en shock): Verde. Aparentemente ilesos, pero en estado de shock. Aunque necesitan atención, su estado no es tan crítico como para ser clasificados en rojo o amarillo.
+
+```
+
 
 ## 3. Primeros auxilios: Aplicación práctica de técnicas
 ___- RCP (Reanimación Cardiopulmonar): Uno de los operarios de
