@@ -59,8 +59,8 @@ en la pierna derecha y dificultad respiratoria leve.___
 ___- Operario 1: Inconsciente, con sangrado evidente en la cabeza.___
 
 ___- Operario 2: Consciente, desorientado, con quemaduras en los___
-
 ___brazos provocadas por la explosión de una batería de litio.___
+
 ___- Conductor del autobús: Consciente, pero con dolor torácico
 agudo. Menciona que tiene antecedentes cardíacos.___
 
