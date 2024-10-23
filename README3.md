@@ -69,48 +69,48 @@ __- Estudiantes 6, 7 y 8: Aparentemente ilesos, pero en estado de
 shock.__
 
 ## 3. Primeros auxilios: Aplicación práctica de técnicas
-- RCP (Reanimación Cardiopulmonar): Uno de los operarios de
+__- RCP (Reanimación Cardiopulmonar): Uno de los operarios de
 construcción ha dejado de respirar mientras es evaluado. Los alumnos
-deben actuar rápidamente aplicando la RCP adecuada.
-- Control de hemorragias: Varios heridos presentan heridas con
+deben actuar rápidamente aplicando la RCP adecuada.__
+__- Control de hemorragias: Varios heridos presentan heridas con
 hemorragia. Los alumnos deben demostrar cómo aplicar torniquetes,
 presiones directas y cómo manejar heridas profundas.
 - Fracturas y quemaduras: Se debe inmovilizar correctamente la
 pierna del conductor de la furgoneta y tratar las quemaduras en los
-operarios.
-- Shock: Los estudiantes en estado de shock requieren atención
+operarios.__
+__- Shock: Los estudiantes en estado de shock requieren atención
 emocional y física. ¿Qué medidas tomarían para tranquilizar a las
-víctimas y evitar un empeoramiento del shock?
+víctimas y evitar un empeoramiento del shock?__
 
 ## 4. Simulación de llamada de emergencia:
 - Uno de los equipos será responsable de hacer una simulación de
 llamada a los servicios de emergencia. ¿Qué información es crucial
-para transmitir de forma clara y precisa?
+para transmitir de forma clara y precisa?__
 
 ## 5. Intervenciones adicionales:
-- ¿Cómo manejarías una hipotética situación en la que uno de los
+__- ¿Cómo manejarías una hipotética situación en la que uno de los
 estudiantes pierde el conocimiento mientras esperan la llegada de la
-ambulancia?
-- ¿Qué harías si uno de los rescatistas (compañero del grupo) se
-corta al intentar ayudar a uno de los heridos?
+ambulancia?__
+__- ¿Qué harías si uno de los rescatistas (compañero del grupo) se
+corta al intentar ayudar a uno de los heridos?__
 
-Objetivos del ejercicio:
-- Evaluar la capacidad para priorizar las intervenciones de primeros
-auxilios en función de la gravedad de las lesiones.
-- Demostrar conocimiento práctico de maniobras vitales como la RCP,
-el control de hemorragias y la gestión de fracturas y quemaduras.
-- Gestionar el estrés y las emociones en situaciones de emergencia,
-incluyendo el trato psicológico con las víctimas.
-- Practicar la comunicación eficaz con los servicios de emergencia y
-con las víctimas.
-Evaluación
-El desempeño del grupo será evaluado según los siguientes criterios:
-- Efectividad en la evaluación inicial de la escena.
-- Precisión y rapidez en la aplicación de técnicas de primeros auxilios.
-- Correcta priorización en la atención de las víctimas.
-- Calidad de la comunicación con las víctimas y servicios de
-emergencia.
-- Capacidad para adaptarse a situaciones imprevistas.
+__Objetivos del ejercicio:__
+__- Evaluar la capacidad para priorizar las intervenciones de primeros
+auxilios en función de la gravedad de las lesiones.__
+__- Demostrar conocimiento práctico de maniobras vitales como la RCP,
+el control de hemorragias y la gestión de fracturas y quemaduras.__
+__- Gestionar el estrés y las emociones en situaciones de emergencia,
+incluyendo el trato psicológico con las víctimas.__
+__- Practicar la comunicación eficaz con los servicios de emergencia y
+con las víctimas.__
+__Evaluación__
+__El desempeño del grupo será evaluado según los siguientes criterios:__
+__- Efectividad en la evaluación inicial de la escena.__
+__- Precisión y rapidez en la aplicación de técnicas de primeros auxilios.__
+__- Correcta priorización en la atención de las víctimas.__
+__- Calidad de la comunicación con las víctimas y servicios de
+emergencia.__
+__- Capacidad para adaptarse a situaciones imprevistas.__
 
 ```
 1. Estudiante que pierde el conocimiento mientras esperan la ambulancia
