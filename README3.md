@@ -1,4 +1,5 @@
 <div align="justify">
+  
   # Tarea online FOL ut 05
 ***\~\~Integrantes de la actividad:\~\~***
 
@@ -21,4 +22,6 @@
 - ___Giancarlo Trezza___
 
   [![Arcanine](https://img.pokemondb.net/sprites/sword-shield/normal/arcanine.png)](https://pokemondb.net/pokedex/arcanine)
+
+  
 </div>
