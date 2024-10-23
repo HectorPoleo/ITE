@@ -113,7 +113,7 @@ emergencia.
 - Capacidad para adaptarse a situaciones imprevistas.
 
 ```
-## 1. Estudiante que pierde el conocimiento mientras esperan la ambulancia ##
+1. Estudiante que pierde el conocimiento mientras esperan la ambulancia
 
 Pasos a seguir:
 
@@ -126,7 +126,7 @@ Proporcionar información precisa a los servicios de emergencia cuando lleguen, 
 
 En resumen: Mantener vías respiratorias abiertas, controlar signos vitales, y proporcionar soporte hasta que lleguen los profesionales de la salud.
 
-## 2. Rescatista (compañero) que se corta al intentar ayudar ##
+2. Rescatista (compañero) que se corta al intentar ayudar
 
 Pasos a seguir:
 
