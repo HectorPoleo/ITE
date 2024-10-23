@@ -97,6 +97,38 @@ ___- Uno de los equipos será responsable de hacer una simulación de
 llamada a los servicios de emergencia. ¿Qué información es crucial
 para transmitir de forma clara y precisa?___
 
+```
+Para realizar una llamada de emergencia efectiva en esta situación, es crucial transmitir la siguiente información de manera clara y precisa:
+
+1. Ubicación exacta del accidente:
+   - Calle y número, intersección, puntos de referencia cercanos.
+
+2. Descripción del accidente:
+   - Tipo de vehículos involucrados (furgoneta de herramientas y autobús escolar).
+   - Número de personas afectadas (12 en total).
+
+3. Estado de las víctimas:
+   - Número de heridos (detallar si hay personas inconscientes, heridas graves o leves).
+   - Describir las lesiones observadas (por ejemplo, sangrado, dificultad para respirar).
+
+4. Condiciones del entorno:
+   - Mencionar que es un día lluvioso, lo que podría afectar la situación (resbalones, visibilidad).
+
+5. Acciones ya realizadas:
+   - Indicar si se están prestando primeros auxilios.
+   - Especificar si se ha llamado a otros servicios (policía, bomberos).
+
+6. Contacto y coordinación:
+   - Proporcionar un número de teléfono de contacto si es necesario.
+   - Ofrecer un punto de encuentro para los servicios de emergencia al llegar.
+
+7. Urgencia y prioridad:
+   - Solicitar asistencia urgente, enfatizando la necesidad de atención médica inmediata.
+
+8. Estado del tráfico:
+   - Comentar si hay congestión o bloqueo de la carretera que podría dificultar el acceso de los servicios de emergencia.
+```
+
 ## 5. Intervenciones adicionales:
 ___- ¿Cómo manejarías una hipotética situación en la que uno de los
 estudiantes pierde el conocimiento mientras esperan la llegada de la
