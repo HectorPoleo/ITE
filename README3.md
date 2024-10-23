@@ -39,78 +39,70 @@ víctimas hasta que lleguen los servicios de emergencia.___
 
 # Instrucciones:
 
-__## 1. Evaluación inicial de la escena:__
-__- Al llegar al lugar del accidente, ¿Qué medidas iniciales de
-seguridad deben tomarse?__
-__- ¿Qué información sería fundamental transmitir a los servicios de
-emergencia cuando se realiza la llamada al 112?__
+## 1. Evaluación inicial de la escena:
+___- Al llegar al lugar del accidente, ¿Qué medidas iniciales de
+seguridad deben tomarse?___
+___- ¿Qué información sería fundamental transmitir a los servicios de
+emergencia cuando se realiza la llamada al 112?___
 
-__## 2. Evaluación primaria de las víctimas:__
-__- Los alumnos deben dividirse en equipos para evaluar a las 12
-personas involucradas en el accidente.__
-__- Clasifica a las víctimas según la escala de triage START (Simple
+## 2. Evaluación primaria de las víctimas:
+___- Los alumnos deben dividirse en equipos para evaluar a las 12
+personas involucradas en el accidente.___
+___- Clasifica a las víctimas según la escala de triage START (Simple
 Triage And Rapid Treatment), considerando las condiciones de cada
-víctima:__
-__- Conductor de la furgoneta: Está consciente, con fractura visible
-en la pierna derecha y dificultad respiratoria leve.__
-__- Operario 1: Inconsciente, con sangrado evidente en la cabeza.__
-__- Operario 2: Consciente, desorientado, con quemaduras en los__
-__brazos provocadas por la explosión de una batería de litio.__
-__- Conductor del autobús: Consciente, pero con dolor torácico
-agudo. Menciona que tiene antecedentes cardíacos.__
-__- Estudiante 1 (14 años): Consciencia alterada, presenta
-respiración rápida y poco profunda.__
-__- Estudiante 2 (13 años): Consciente, pero con un corte profundo
-en la pierna que no deja de sangrar.__
-__- Estudiantes 3, 4 y 5 (entre 13 y 15 años): Lesiones leves
+víctima:___
+___- Conductor de la furgoneta: Está consciente, con fractura visible
+en la pierna derecha y dificultad respiratoria leve.___
+___- Operario 1: Inconsciente, con sangrado evidente en la cabeza.___
+___- Operario 2: Consciente, desorientado, con quemaduras en los___
+___brazos provocadas por la explosión de una batería de litio.___
+___- Conductor del autobús: Consciente, pero con dolor torácico
+agudo. Menciona que tiene antecedentes cardíacos.___
+___- Estudiante 1 (14 años): Consciencia alterada, presenta
+respiración rápida y poco profunda.___
+___- Estudiante 2 (13 años): Consciente, pero con un corte profundo
+en la pierna que no deja de sangrar.___
+___- Estudiantes 3, 4 y 5 (entre 13 y 15 años): Lesiones leves
 (contusiones y cortes menores), pero están conscientes y pueden
-caminar.__
-__- Estudiantes 6, 7 y 8: Aparentemente ilesos, pero en estado de
-shock.__
+caminar.___
+___- Estudiantes 6, 7 y 8: Aparentemente ilesos, pero en estado de
+shock.___
 
 ## 3. Primeros auxilios: Aplicación práctica de técnicas
-__- RCP (Reanimación Cardiopulmonar): Uno de los operarios de
+___- RCP (Reanimación Cardiopulmonar): Uno de los operarios de
 construcción ha dejado de respirar mientras es evaluado. Los alumnos
-deben actuar rápidamente aplicando la RCP adecuada.__
-__- Control de hemorragias: Varios heridos presentan heridas con
+deben actuar rápidamente aplicando la RCP adecuada.___
+___- Control de hemorragias: Varios heridos presentan heridas con
 hemorragia. Los alumnos deben demostrar cómo aplicar torniquetes,
-presiones directas y cómo manejar heridas profundas.
-- Fracturas y quemaduras: Se debe inmovilizar correctamente la
+presiones directas y cómo manejar heridas profundas.___
+___- Fracturas y quemaduras: Se debe inmovilizar correctamente la
 pierna del conductor de la furgoneta y tratar las quemaduras en los
-operarios.__
-__- Shock: Los estudiantes en estado de shock requieren atención
+operarios.___
+___- Shock: Los estudiantes en estado de shock requieren atención
 emocional y física. ¿Qué medidas tomarían para tranquilizar a las
-víctimas y evitar un empeoramiento del shock?__
+víctimas y evitar un empeoramiento del shock?___
 
 ## 4. Simulación de llamada de emergencia:
-- Uno de los equipos será responsable de hacer una simulación de
+___- Uno de los equipos será responsable de hacer una simulación de
 llamada a los servicios de emergencia. ¿Qué información es crucial
-para transmitir de forma clara y precisa?__
+para transmitir de forma clara y precisa?___
 
 ## 5. Intervenciones adicionales:
-__- ¿Cómo manejarías una hipotética situación en la que uno de los
+___- ¿Cómo manejarías una hipotética situación en la que uno de los
 estudiantes pierde el conocimiento mientras esperan la llegada de la
-ambulancia?__
-__- ¿Qué harías si uno de los rescatistas (compañero del grupo) se
-corta al intentar ayudar a uno de los heridos?__
+ambulancia?___
+___- ¿Qué harías si uno de los rescatistas (compañero del grupo) se
+corta al intentar ayudar a uno de los heridos?___
 
-__Objetivos del ejercicio:__
-__- Evaluar la capacidad para priorizar las intervenciones de primeros
-auxilios en función de la gravedad de las lesiones.__
-__- Demostrar conocimiento práctico de maniobras vitales como la RCP,
-el control de hemorragias y la gestión de fracturas y quemaduras.__
-__- Gestionar el estrés y las emociones en situaciones de emergencia,
-incluyendo el trato psicológico con las víctimas.__
-__- Practicar la comunicación eficaz con los servicios de emergencia y
-con las víctimas.__
-__Evaluación__
-__El desempeño del grupo será evaluado según los siguientes criterios:__
-__- Efectividad en la evaluación inicial de la escena.__
-__- Precisión y rapidez en la aplicación de técnicas de primeros auxilios.__
-__- Correcta priorización en la atención de las víctimas.__
-__- Calidad de la comunicación con las víctimas y servicios de
-emergencia.__
-__- Capacidad para adaptarse a situaciones imprevistas.__
+___Objetivos del ejercicio:___
+___- Evaluar la capacidad para priorizar las intervenciones de primeros
+auxilios en función de la gravedad de las lesiones.___
+___- Demostrar conocimiento práctico de maniobras vitales como la RCP,
+el control de hemorragias y la gestión de fracturas y quemaduras.___
+___- Gestionar el estrés y las emociones en situaciones de emergencia,
+incluyendo el trato psicológico con las víctimas.___
+___- Practicar la comunicación eficaz con los servicios de emergencia y
+con las víctimas.___
 
 ```
 1. Estudiante que pierde el conocimiento mientras esperan la ambulancia
@@ -141,5 +133,14 @@ Pasos a seguir:
 En resumen: Es fundamental que el rescatista herido atienda su corte para evitar infecciones o complicaciones, y que otra persona continúe con el rescate si es necesario.
 
 ```
-  
+## Evaluación
+
+___El desempeño del grupo será evaluado según los siguientes criterios:___
+___- Efectividad en la evaluación inicial de la escena.___
+___- Precisión y rapidez en la aplicación de técnicas de primeros auxilios.___
+___- Correcta priorización en la atención de las víctimas.___
+___- Calidad de la comunicación con las víctimas y servicios de
+emergencia.___
+___- Capacidad para adaptarse a situaciones imprevistas.___
+
 </div>
