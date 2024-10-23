@@ -113,7 +113,8 @@ emergencia.
 - Capacidad para adaptarse a situaciones imprevistas.
 
 ```
-1. Estudiante que pierde el conocimiento mientras esperan la ambulancia
+## 1. Estudiante que pierde el conocimiento mientras esperan la ambulancia ##
+
 Pasos a seguir:
 
 Evaluar la seguridad del entorno: Asegúrate de que no haya peligros adicionales alrededor.
@@ -122,9 +123,11 @@ Si no respira o no tiene pulso: Comenzar maniobras de RCP (Reanimación Cardiopu
 Controlar la respiración y pulso regularmente: Hasta la llegada de la ambulancia, sigue monitoreando su estado.
 Evitar moverlo si no es absolutamente necesario, a menos que exista un peligro inminente.
 Proporcionar información precisa a los servicios de emergencia cuando lleguen, detallando lo que sucedió y cualquier cambio en el estado del estudiante.
+
 En resumen: Mantener vías respiratorias abiertas, controlar signos vitales, y proporcionar soporte hasta que lleguen los profesionales de la salud.
 
-2. Rescatista (compañero) que se corta al intentar ayudar
+## 2. Rescatista (compañero) que se corta al intentar ayudar ##
+
 Pasos a seguir:
 
 Detener la ayuda temporalmente: El compañero herido debe dejar de ayudar inmediatamente para atender su herida. No debe continuar asistiendo a los demás hasta que su herida esté controlada.
@@ -134,7 +137,9 @@ Aplicar presión sobre la herida con un vendaje limpio o una gasa para detener e
 Cubrir la herida con una venda estéril.
 Si es profundo o grave: Solicitar atención médica adicional, ya sea con la llegada de la ambulancia o trasladando al rescatista herido al centro de salud más cercano.
 Reemplazar al rescatista: Si hay más personas disponibles para ayudar, asignar a otra persona para continuar con el rescate. Es importante que el rescatista herido no ponga en riesgo su salud ni la de los demás.
+
 En resumen: Es fundamental que el rescatista herido atienda su corte para evitar infecciones o complicaciones, y que otra persona continúe con el rescate si es necesario.
+
 ```
   
 </div>
