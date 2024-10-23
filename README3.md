@@ -39,11 +39,11 @@ víctimas hasta que lleguen los servicios de emergencia.___
 
 # Instrucciones:
 
-## 1. Evaluación inicial de la escena:
+__## 1. Evaluación inicial de la escena:
 - Al llegar al lugar del accidente, ¿Qué medidas iniciales de
 seguridad deben tomarse?
 - ¿Qué información sería fundamental transmitir a los servicios de
-emergencia cuando se realiza la llamada al 112?
+emergencia cuando se realiza la llamada al 112?__
 
 ## 2. Evaluación primaria de las víctimas:
 - Los alumnos deben dividirse en equipos para evaluar a las 12
