@@ -117,12 +117,12 @@ emergencia.
 
 Pasos a seguir:
 
-Evaluar la seguridad del entorno: Asegúrate de que no haya peligros adicionales alrededor.
-Evaluar el estado de consciencia: Si el estudiante está inconsciente pero respira, se debe colocar en posición lateral de seguridad para mantener sus vías respiratorias abiertas y evitar que se ahogue si vomita.
-Si no respira o no tiene pulso: Comenzar maniobras de RCP (Reanimación Cardiopulmonar) si tienes el entrenamiento necesario.
-Controlar la respiración y pulso regularmente: Hasta la llegada de la ambulancia, sigue monitoreando su estado.
-Evitar moverlo si no es absolutamente necesario, a menos que exista un peligro inminente.
-Proporcionar información precisa a los servicios de emergencia cuando lleguen, detallando lo que sucedió y cualquier cambio en el estado del estudiante.
+1- Evaluar la seguridad del entorno: Asegúrate de que no haya peligros adicionales alrededor.
+2- Evaluar el estado de consciencia: Si el estudiante está inconsciente pero respira, se debe colocar en posición lateral de seguridad para mantener sus vías respiratorias abiertas y evitar que se ahogue si vomita.
+3- Si no respira o no tiene pulso: Comenzar maniobras de RCP (Reanimación Cardiopulmonar) si tienes el entrenamiento necesario.
+4- Controlar la respiración y pulso regularmente: Hasta la llegada de la ambulancia, sigue monitoreando su estado.
+5- Evitar moverlo si no es absolutamente necesario, a menos que exista un peligro inminente.
+6- Proporcionar información precisa a los servicios de emergencia cuando lleguen, detallando lo que sucedió y cualquier cambio en el estado del estudiante.
 
 En resumen: Mantener vías respiratorias abiertas, controlar signos vitales, y proporcionar soporte hasta que lleguen los profesionales de la salud.
 
@@ -130,13 +130,13 @@ En resumen: Mantener vías respiratorias abiertas, controlar signos vitales, y p
 
 Pasos a seguir:
 
-Detener la ayuda temporalmente: El compañero herido debe dejar de ayudar inmediatamente para atender su herida. No debe continuar asistiendo a los demás hasta que su herida esté controlada.
-Aplicar primeros auxilios al rescatista:
-Lavar la herida con agua limpia, si es posible, para eliminar cualquier suciedad.
-Aplicar presión sobre la herida con un vendaje limpio o una gasa para detener el sangrado.
-Cubrir la herida con una venda estéril.
-Si es profundo o grave: Solicitar atención médica adicional, ya sea con la llegada de la ambulancia o trasladando al rescatista herido al centro de salud más cercano.
-Reemplazar al rescatista: Si hay más personas disponibles para ayudar, asignar a otra persona para continuar con el rescate. Es importante que el rescatista herido no ponga en riesgo su salud ni la de los demás.
+1- Detener la ayuda temporalmente: El compañero herido debe dejar de ayudar inmediatamente para atender su herida. No debe continuar asistiendo a los demás hasta que su herida esté controlada.
+2- Aplicar primeros auxilios al rescatista:
+3- Lavar la herida con agua limpia, si es posible, para eliminar cualquier suciedad.
+4- Aplicar presión sobre la herida con un vendaje limpio o una gasa para detener el sangrado.
+5- Cubrir la herida con una venda estéril.
+6-Si es profundo o grave: Solicitar atención médica adicional, ya sea con la llegada de la ambulancia o trasladando al rescatista herido al centro de salud más cercano.
+7- Reemplazar al rescatista: Si hay más personas disponibles para ayudar, asignar a otra persona para continuar con el rescate. Es importante que el rescatista herido no ponga en riesgo su salud ni la de los demás.
 
 En resumen: Es fundamental que el rescatista herido atienda su corte para evitar infecciones o complicaciones, y que otra persona continúe con el rescate si es necesario.
 
