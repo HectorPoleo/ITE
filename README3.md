@@ -45,7 +45,7 @@ seguridad deben tomarse?
 - ¿Qué información sería fundamental transmitir a los servicios de
 emergencia cuando se realiza la llamada al 112?
 
-##2. Evaluación primaria de las víctimas:
+## 2. Evaluación primaria de las víctimas:
 - Los alumnos deben dividirse en equipos para evaluar a las 12
 personas involucradas en el accidente.
 - Clasifica a las víctimas según la escala de triage START (Simple
