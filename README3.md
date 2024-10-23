@@ -39,34 +39,34 @@ víctimas hasta que lleguen los servicios de emergencia.___
 
 # Instrucciones:
 
-__## 1. Evaluación inicial de la escena:
-- Al llegar al lugar del accidente, ¿Qué medidas iniciales de
-seguridad deben tomarse?
-- ¿Qué información sería fundamental transmitir a los servicios de
+__## 1. Evaluación inicial de la escena:__
+__- Al llegar al lugar del accidente, ¿Qué medidas iniciales de
+seguridad deben tomarse?__
+__- ¿Qué información sería fundamental transmitir a los servicios de
 emergencia cuando se realiza la llamada al 112?__
 
-## 2. Evaluación primaria de las víctimas:
-- Los alumnos deben dividirse en equipos para evaluar a las 12
-personas involucradas en el accidente.
-- Clasifica a las víctimas según la escala de triage START (Simple
+__## 2. Evaluación primaria de las víctimas:__
+__- Los alumnos deben dividirse en equipos para evaluar a las 12
+personas involucradas en el accidente.__
+__- Clasifica a las víctimas según la escala de triage START (Simple
 Triage And Rapid Treatment), considerando las condiciones de cada
-víctima:
-- Conductor de la furgoneta: Está consciente, con fractura visible
-en la pierna derecha y dificultad respiratoria leve.
-- Operario 1: Inconsciente, con sangrado evidente en la cabeza.
-- Operario 2: Consciente, desorientado, con quemaduras en los
-brazos provocadas por la explosión de una batería de litio.
-- Conductor del autobús: Consciente, pero con dolor torácico
-agudo. Menciona que tiene antecedentes cardíacos.
-- Estudiante 1 (14 años): Consciencia alterada, presenta
-respiración rápida y poco profunda.
-- Estudiante 2 (13 años): Consciente, pero con un corte profundo
-en la pierna que no deja de sangrar.
-- Estudiantes 3, 4 y 5 (entre 13 y 15 años): Lesiones leves
+víctima:__
+__- Conductor de la furgoneta: Está consciente, con fractura visible
+en la pierna derecha y dificultad respiratoria leve.__
+__- Operario 1: Inconsciente, con sangrado evidente en la cabeza.__
+__- Operario 2: Consciente, desorientado, con quemaduras en los__
+__brazos provocadas por la explosión de una batería de litio.__
+__- Conductor del autobús: Consciente, pero con dolor torácico
+agudo. Menciona que tiene antecedentes cardíacos.__
+__- Estudiante 1 (14 años): Consciencia alterada, presenta
+respiración rápida y poco profunda.__
+__- Estudiante 2 (13 años): Consciente, pero con un corte profundo
+en la pierna que no deja de sangrar.__
+__- Estudiantes 3, 4 y 5 (entre 13 y 15 años): Lesiones leves
 (contusiones y cortes menores), pero están conscientes y pueden
-caminar.
-- Estudiantes 6, 7 y 8: Aparentemente ilesos, pero en estado de
-shock.
+caminar.__
+__- Estudiantes 6, 7 y 8: Aparentemente ilesos, pero en estado de
+shock.__
 
 ## 3. Primeros auxilios: Aplicación práctica de técnicas
 - RCP (Reanimación Cardiopulmonar): Uno de los operarios de
