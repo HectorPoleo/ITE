@@ -42,8 +42,56 @@ víctimas hasta que lleguen los servicios de emergencia.___
 ## 1. Evaluación inicial de la escena:
 ___- Al llegar al lugar del accidente, ¿Qué medidas iniciales de
 seguridad deben tomarse?___
+```
+Al llegar al lugar del accidente, se deben tomar las siguientes medidas iniciales de seguridad:
+1.  Mantener la Calma:
+Controlar el estrés y asegurar que todos en el grupo se mantengan tranquilos y enfocados en la atención a las víctimas. Si estás nervioso solo empeora la situación e incluso puede afectar al estado de ánimo de las víctimas.
+
+2. Evaluar el Escenario:
+Observar si hay riesgos adicionales, como derrames de combustible, cables eléctricos caídos o fuego.
+Identificar la ubicación de los vehículos involucrados y cualquier obstáculo en la carretera puede ayudar a que la situación esté más controlada y que así no surjan más accidentes.
+
+3. Asegurar la Zona:
+Colocar triángulos de señalización o cualquier dispositivo de advertencia para alertar a otros conductores sobre el accidente junto a un peto fluorescente.
+Mantener una distancia segura del lugar del siniestro para evitar más accidentes y asegurar a las víctimas.
+
+4. Proteger a las Víctimas:
+Asegurarse de que las víctimas estén en un lugar seguro, alejadas del tráfico y de posibles peligros que puedan afectar a su salud.
+
+5. Evaluar el Estado de las Víctimas:
+Realizar una evaluación inicial de las condiciones de las víctimas y clasificar su estado (consciente, inconsciente, lesiones graves) además priorizar la salud de los más graves.
+
+6. Llamar a los Servicios de Emergencia:
+Si no se ha hecho ya, llamar al 112 y proporcionar información clara sobre la ubicación, el número de víctimas y el estado de cada una.
+
+7. Coordinar la Asistencia:
+Designar a una persona (o un grupo) para que dirija a otros en la escena, distribuyendo tareas como la evaluación de víctimas y la gestión de la seguridad.
+Estas medidas iniciales son cruciales para garantizar la seguridad de todos los involucrados y para facilitar una respuesta efectiva a la emergencia.
+```
 ___- ¿Qué información sería fundamental transmitir a los servicios de
 emergencia cuando se realiza la llamada al 112?___
+```
+Al realizar la llamada al 112 tras un accidente de tráfico con múltiples víctimas, es crucial transmitir la siguiente información:
+
+1. Ubicación exacta del accidente: Indicar la intersección donde ocurrió el siniestro, incluyendo cualquier referencia útil (nombres de calles, puntos de interés cercanos).
+
+2. Descripción del accidente: Especificar que se trata de un accidente entre una furgoneta y un autobús escolar, mencionando la cantidad de vehículos involucrados.
+
+3. Número de víctimas: Informar que hay un total de 12 personas afectadas, desglosando si es posible (1 conductor de la furgoneta, 2 operarios de construcción, 1 conductor del autobús y 8 estudiantes).
+
+4. Estado de las víctimas: Proporcionar detalles sobre el estado de las personas involucradas (heridos graves, leves, inconscientes, etc.) y si hay algún tipo de peligro inminente, como fugas de combustible o riesgo de incendio.
+
+5. Condiciones del entorno: Mencionar que el clima es lluvioso, lo cual puede afectar la situación y las operaciones de rescate.
+
+6. Acciones realizadas: Informar sobre cualquier medida de primeros auxilios ya aplicada y si se han movido a las víctimas a un lugar seguro.
+
+7. Necesidades específicas: Si hay víctimas con condiciones médicas preexistentes que puedan complicar la atención, es importante comunicarlas.
+
+8. Disponibilidad de recursos: Si hay testigos o personal capacitado en primeros auxilios en el lugar que pueda ayudar mientras llegan los servicios de emergencia.
+
+Transmitir esta información de manera clara y concisa ayudará a los servicios de emergencia a preparar una respuesta adecuada y a movilizar los recursos necesarios.
+
+```
 
 ## 2. Evaluación primaria de las víctimas:
 ___- Los alumnos deben dividirse en equipos para evaluar a las 12
