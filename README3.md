@@ -164,16 +164,19 @@ Compruebe si el paciente tiene una vía aérea libre y sin obstrucciones.
 Si el paciente no respira, comience con maniobras de respiración artificial.
 Si el paciente no tiene pulso, comience con comprimidos cardíacos y continuar con respiración artificial.
 Continúe con esta secuencia (2 minutos de compresiones, 30 segundos de respiración) hasta que el paciente recupere el pulso y la respiración, o hasta que lleguen los servicios de emergencia.
+
 2. Control de hemorragias:
 Aplicar torniquetes en las extremidades inferiores, excepto en casos de lesiones graves en la cabeza o en miembros superiores.
 Aplicar presiones directas en las heridas, utilizando compresas o vendas esterilizadas.
 Para heridas profundas, usar una compresa o venda esterilizada y aplicar presión directa, sin mover la compresa, hasta que lleguen los servicios de emergencia.
+
 3. Fracturas y quemaduras:
 Inmovilizar correctamente la pierna del conductor de la furgoneta usando un esparadrapo o inmovilizador, pero evite apretar demasiado para evitar el riesgo de daño neurológico.
 Tratar las quemaduras según su grado de severidad:
 Primera grado (enrojecimiento): aplicar agua fría por varios minutos y cubrir con una compresa húmeda y esterilizada.
 Segunda grado (costra): aplicar agua fría por varios minutos, cubrir con una compresa húmeda y esterilizada, y luego cambiar la compresa cada 10-15 minutos para evitar la infección.
 Tercera grado (degradación de tejidos): aplicar agua fría por varios minutos, cubrir con una compresa húmeda y esterilizada, y luego cambiar la compresa cada 10-15 minutos para evitar la infección. Evite la manipulación de la herida para evitar la infección.
+
 3. Shock:
 Mantener al paciente en una posición cómoda y estable.
 Evitar el estrés y mantener la calma, para evitar agitación y empeoramiento del shock.
