@@ -267,7 +267,10 @@ Pasos a seguir:
 6- Proporcionar información precisa a los servicios de emergencia cuando lleguen, detallando lo que sucedió y cualquier cambio en el estado del estudiante.
 
 En resumen: Mantener vías respiratorias abiertas, controlar signos vitales, y proporcionar soporte hasta que lleguen los profesionales de la salud.
+````
+<img src="https://www.publico.es/uploads/2024/08/07/66b323891c423.jpeg" width="300px">
 
+```
 2. Rescatista (compañero) que se corta al intentar ayudar
 
 Pasos a seguir:
@@ -281,8 +284,11 @@ Pasos a seguir:
 7- Reemplazar al rescatista: Si hay más personas disponibles para ayudar, asignar a otra persona para continuar con el rescate. Es importante que el rescatista herido no ponga en riesgo su salud ni la de los demás.
 
 En resumen: Es fundamental que el rescatista herido atienda su corte para evitar infecciones o complicaciones, y que otra persona continúe con el rescate si es necesario.
-
 ```
+
+<img src="https://medical-images.essity.com/images-c5/809/469809/original/artculo-noviembre-1-imagen-1.png?w=708&h=10000&imPolicy=dynamic" width="300px">
+
+
 ## Evaluación
 
 ___El desempeño del grupo será evaluado según los siguientes criterios:___
