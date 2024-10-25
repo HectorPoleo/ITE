@@ -164,20 +164,32 @@ Compruebe si el paciente tiene una vía aérea libre y sin obstrucciones.
 Si el paciente no respira, comience con maniobras de respiración artificial.
 Si el paciente no tiene pulso, comience con comprimidos cardíacos y continuar con respiración artificial.
 Continúe con esta secuencia (2 minutos de compresiones, 30 segundos de respiración) hasta que el paciente recupere el pulso y la respiración, o hasta que lleguen los servicios de emergencia.
+```
 
+<img src="https://imgs.search.brave.com/EtnqiekHQjwndIdaaTAKrwGR1Teh4mcvlKbHTQNspIA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/Zm90b3MtcHJlbWl1/bS9zZWNjaW9uLWJh/amEtbXVqZXItYXBs/aWNhbmRvLXJjcC1t/YW5pcXVpXzEwNDg5/NDQtMTM2NDY2MzIu/anBnP3NpemU9NjI2/JmV4dD1qcGc" width="300px">
+
+```
 2. Control de hemorragias:
 Aplicar torniquetes en las extremidades inferiores, excepto en casos de lesiones graves en la cabeza o en miembros superiores.
 Aplicar presiones directas en las heridas, utilizando compresas o vendas esterilizadas.
 Para heridas profundas, usar una compresa o venda esterilizada y aplicar presión directa, sin mover la compresa, hasta que lleguen los servicios de emergencia.
+```
 
+<img src="https://imgs.search.brave.com/Bs9rdC-cyMmWAIOC-Qdo4dGFuapzzkrQEajumaSdlGo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5qaW1jZG4uY29t/L2FwcC9jbXMvaW1h/Z2UvdHJhbnNmL2Rp/bWVuc2lvbj0zNDN4/MTAyNDpmb3JtYXQ9/anBnL3BhdGgvc2E5/M2I4MzcxODZmOTY5/MWYvaW1hZ2UvaTg0/NjZmYWU3OWZjZGM3/OWEvdmVyc2lvbi8x/NjUwNTM3NTQwL2lt/YWdlLmpwZw" width="300px">
+
+```
 3. Fracturas y quemaduras:
 Inmovilizar correctamente la pierna del conductor de la furgoneta usando un esparadrapo o inmovilizador, pero evite apretar demasiado para evitar el riesgo de daño neurológico.
 Tratar las quemaduras según su grado de severidad:
 Primera grado (enrojecimiento): aplicar agua fría por varios minutos y cubrir con una compresa húmeda y esterilizada.
 Segunda grado (costra): aplicar agua fría por varios minutos, cubrir con una compresa húmeda y esterilizada, y luego cambiar la compresa cada 10-15 minutos para evitar la infección.
 Tercera grado (degradación de tejidos): aplicar agua fría por varios minutos, cubrir con una compresa húmeda y esterilizada, y luego cambiar la compresa cada 10-15 minutos para evitar la infección. Evite la manipulación de la herida para evitar la infección.
+```
 
-3. Shock:
+<img src="https://imgs.search.brave.com/bIEjkqzyfMoO6V3y-dhfCToER3zSr_X56W8SrpY1HoM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcm9t/ZWRvcy5jb20vZi82/OC83YS82ODdhODMy/MDI3MDU2NzFiMDAw/NjBiODk4ZGIwMGRl/MS5qcGc" width="300px">
+
+```
+4. Shock:
 Mantener al paciente en una posición cómoda y estable.
 Evitar el estrés y mantener la calma, para evitar agitación y empeoramiento del shock.
 Suministrar líquidos orales si el paciente está consciente y puede tomarlos.
@@ -185,6 +197,8 @@ Si el paciente está desmayado o no puede tomar líquidos, considerar suministra
 Evitar la sobrecarga de oxígeno, ya que puede empeorar la situación del paciente.
 No mover al paciente si no es necesario, ya que puede empeorar el shock.
 ```
+
+<img src="https://imgs.search.brave.com/aIv9zVl_NfJrGjjZ3l76W8JIcsZsNsQSd7k4x_jDs0U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90dXRl/b3JpY2EuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzAx/L1Bvc2ljaW8lQ0Ml/ODFuLWFudGlzaG9j/ay53ZWJw" width="300px">
 
 ## 4. Simulación de llamada de emergencia:
 ___- Uno de los equipos será responsable de hacer una simulación de
