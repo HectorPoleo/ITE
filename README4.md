@@ -44,6 +44,18 @@ Distribución del teletrabajo (3 días semanales) y días presenciales.
 Ejemplo: Diseñar un horario que combine teletrabajo y presencialidad para cumplir con las necesidades del proyecto.
 
 
+### Horario Personal (Ejemplo) para los Programadores
+
+| **Día**         | **Horario**        | **Lugar**     | **Pausa**        | **Actividad Principal**                           |
+|------------------|--------------------|---------------|------------------|--------------------------------------------------|
+| **Lunes**       | 8:00 - 16:00       | Teletrabajo   | 15 min (11:00)   | Desarrollo individual y revisión de tareas.      |
+| **Martes**      | 9:00 - 17:30       | Oficina       | 30 min (12:30)   | Reunión de equipo y asignación de tareas.        |
+| **Miércoles**   | 8:30 - 16:30       | Teletrabajo   | 15 min (11:30)   | Programación de módulos asignados.               |
+| **Jueves**      | 9:00 - 17:30       | Oficina       | 30 min (13:00)   | Formación (15:30 - 17:30) y tareas colaborativas.|
+| **Viernes**     | 8:00 - 16:00       | Teletrabajo   | 15 min (11:00)   | Finalización de entregables y revisión semanal.  |
+
+
+
 2. Proponer medidas de flexibilidad horaria
 Redacción de un protocolo que permita flexibilidad en la entrada y salida, respetando el total de horas.
 Describir cómo garantizar que los empleados puedan conciliar su vida laboral y familiar.
