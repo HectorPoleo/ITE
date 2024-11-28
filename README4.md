@@ -154,9 +154,43 @@ Detallar cómo organizar esta formación sin afectar al proyecto.
 
 ---
 
-5. Establecer un calendario anual de vacaciones
+# 5. Establecer un calendario anual de vacaciones
 Garantizar los días de vacaciones al año.
 Diseñar un calendario que asegure que todos los empleados puedan disfrutar de sus vacaciones sin impactar negativamente en el proyecto.
+
+## Plan para Establecer un Calendario Anual de Vacaciones
+
+### 1. Definir el número de días disponibles
+- **Legalidad:** Asegúrate de cumplir con las leyes laborales locales respecto a los días mínimos de vacaciones.
+- **Política interna:** Si la empresa ofrece días adicionales, inclúyelos en el cálculo.
+- **Distribución:** Por ejemplo, si son 15 días hábiles anuales, evalúa si serán consecutivos o en periodos fraccionados.
+
+### 2. Determinar las necesidades del proyecto
+- **Identifica períodos clave:** Analiza los meses o temporadas con mayor carga de trabajo (lanzamientos, cierres fiscales, etc.).
+- **Asigna prioridades:** En periodos críticos, reduce al mínimo el número de empleados en vacaciones.
+
+### 3. Recolectar preferencias de los empleados
+- **Encuesta:** Solicita a cada empleado que indique sus periodos de preferencia (meses o semanas específicas).
+- **Flexibilidad:** Considera casos especiales (festividades culturales, compromisos personales, etc.).
+
+### 4. Crear un calendario preliminar
+- **Rotación justa:** Diseña un sistema que distribuya equitativamente los periodos populares (como las vacaciones de verano o navidad).
+- **Evita solapamientos críticos:** Asegúrate de que no haya demasiadas ausencias simultáneas en el mismo equipo o función.
+
+### 5. Revisar y aprobar
+- **Revisión en equipo:** Comparte el calendario preliminar con los gerentes y empleados para recoger retroalimentación.
+- **Ajustes necesarios:** Realiza cambios para resolver conflictos o mejorar la distribución.
+
+### 6. Comunicación y formalización
+- **Publicación del calendario:** Distribuye el calendario final al inicio del año.
+- **Registro oficial:** Solicita a los empleados confirmar sus fechas asignadas.
+- **Flexibilidad:** Establece un proceso para cambios en caso de emergencias.
+
+### 7. Seguimiento durante el año
+- **Actualización periódica:** Revisa el cumplimiento del calendario y realiza ajustes si cambian las necesidades del proyecto.
+- **Registro de días tomados:** Mantén un control claro para evitar problemas.
+
+---
 
 # 6. Garantizar el cumplimiento de la normativa en teletrabajo
 Redactar un documento donde se recojan los derechos de los trabajadores en modalidad de teletrabajo/Compensación por gastos .
