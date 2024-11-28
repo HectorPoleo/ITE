@@ -54,7 +54,7 @@ Ejemplo: Diseñar un horario que combine teletrabajo y presencialidad para cumpl
 | **Jueves**      | 9:00 - 17:30       | Oficina       | 30 min (13:00)   | Formación (15:30 - 17:30) y tareas colaborativas.|
 | **Viernes**     | 8:00 - 16:00       | Teletrabajo   | 15 min (11:00)   | Finalización de entregables y revisión semanal.  |
 
-
+---
 
 2. Proponer medidas de flexibilidad horaria
 Redacción de un protocolo que permita flexibilidad en la entrada y salida, respetando el total de horas.
@@ -64,19 +64,44 @@ Describir cómo garantizar que los empleados puedan conciliar su vida laboral y 
 Planificar el uso de horas extraordinarias si el proyecto lo exige, respetando el límite anual.
 Proponer alternativas para compensar las horas extras.
 
-```
-Tu madre
-```
+### Situaciones de Sobrecarga de Trabajo
+- **Causas posibles:** Cambios en los plazos del proyecto, incremento de complejidad, o incidencias técnicas.
 
-5. Incorporar formación dentro de la jornada laboral
+### Horas Extraordinarias
+- **Límite:** 80 horas anuales por trabajador, conforme a la normativa española.
+- **Compensación:** 
+  - **Tiempo de descanso** equivalente a las horas extras trabajadas.
+  - **Pago** si no es posible compensar con descanso.
+
+### Alternativas para evitar sobrecarga de trabajo:
+- **Reorganización de tareas** para priorizar lo urgente sin sobrepasar la jornada estándar.
+- **Distribución equitativa de tareas** según experiencia para no sobrecargar a los más experimentados.
+- **Uso del teletrabajo** en días clave para aumentar la productividad individual sin distracciones.
+
+---
+
+4. Incorporar formación dentro de la jornada laboral
 Diseñar un plan que incluya formación en nuevas tecnologías, contabilizándolo como tiempo de trabajo efectivo.
 Detallar cómo organizar esta formación sin afectar al proyecto.
 
-6. Establecer un calendario anual de vacaciones
+### Plan de Formación en Nuevas Tecnologías
+- **Duración:** 2 horas semanales, contabilizadas como tiempo de trabajo efectivo.
+- **Horario:** Lunes de 9:00 a 11:00 h.
+- **Contenido:** Tecnologías y herramientas actuales del sector, como nuevos frameworks y patrones de desarrollo.
+- **Metodología:** Seminarios online, tutoriales y talleres prácticos.
+
+### Conciliación Laboral y Bienestar
+- **Flexibilidad horaria** para adaptar la jornada a las necesidades personales.
+- **Días de descanso:** Garantizados los fines de semana y festivos, y días de descanso compensatorio si se exceden las 40 horas semanales.
+- **Revisión semanal de la carga de trabajo** para evitar el agotamiento.
+
+---
+
+5. Establecer un calendario anual de vacaciones
 Garantizar los días de vacaciones al año.
 Diseñar un calendario que asegure que todos los empleados puedan disfrutar de sus vacaciones sin impactar negativamente en el proyecto.
 
-7. Garantizar el cumplimiento de la normativa en teletrabajo
+6. Garantizar el cumplimiento de la normativa en teletrabajo
 Redactar un documento donde se recojan los derechos de los trabajadores en modalidad de teletrabajo/Compensación por gastos .
 
 Horario flexible.
