@@ -64,15 +64,19 @@ Describir cómo garantizar que los empleados puedan conciliar su vida laboral y 
 Planificar el uso de horas extraordinarias si el proyecto lo exige, respetando el límite anual.
 Proponer alternativas para compensar las horas extras.
 
-4. Incorporar formación dentro de la jornada laboral
+```
+Tu madre
+```
+
+5. Incorporar formación dentro de la jornada laboral
 Diseñar un plan que incluya formación en nuevas tecnologías, contabilizándolo como tiempo de trabajo efectivo.
 Detallar cómo organizar esta formación sin afectar al proyecto.
 
-5. Establecer un calendario anual de vacaciones
+6. Establecer un calendario anual de vacaciones
 Garantizar los días de vacaciones al año.
 Diseñar un calendario que asegure que todos los empleados puedan disfrutar de sus vacaciones sin impactar negativamente en el proyecto.
 
-6. Garantizar el cumplimiento de la normativa en teletrabajo
+7. Garantizar el cumplimiento de la normativa en teletrabajo
 Redactar un documento donde se recojan los derechos de los trabajadores en modalidad de teletrabajo/Compensación por gastos .
 
 Horario flexible.
