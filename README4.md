@@ -35,13 +35,11 @@ Tareas a Realizar:
 Cada pareja de estudiantes asumirá el rol de gestores de recursos humanos y deberá realizar las siguientes actividades:
 
 
-1. Diseñar un horario semanal que respete la normativa laboral
-Jornada máxima: 
-Tiempo de descanso diario .
-Descanso semanal 
-Pausa durante la jornada 
+# 1. Diseñar un horario semanal que respete la normativa laboral
+Jornada máxima: Tiempo de descanso diario. 
+Descanso semanal. 
+Pausa durante la jornada. 
 Distribución del teletrabajo (3 días semanales) y días presenciales.
-Ejemplo: Diseñar un horario que combine teletrabajo y presencialidad para cumplir con las necesidades del proyecto.
 
 
 ### Horario Personal (Ejemplo) para los Programadores
@@ -56,11 +54,70 @@ Ejemplo: Diseñar un horario que combine teletrabajo y presencialidad para cumpl
 
 ---
 
-2. Proponer medidas de flexibilidad horaria
-Redacción de un protocolo que permita flexibilidad en la entrada y salida, respetando el total de horas.
-Describir cómo garantizar que los empleados puedan conciliar su vida laboral y familiar.
+# 2. Proponer medidas de flexibilidad horaria
+Redacción de un protocolo que permita flexibilidad en la entrada y salida, respetando el total de horas. Describir cómo garantizar que los empleados puedan conciliar su vida laboral y familiar.
 
-3. Gestionar situaciones de sobrecarga de trabajo
+# 🕒 **Protocolo de Flexibilidad Horaria: Trabaja a Tu Ritmo**
+
+## **Objetivo**  
+Hacer que el trabajo se adapte a la vida de los empleados, no al revés. Este protocolo ayuda a cumplir con las 40 horas semanales, pero con un horario flexible que permita conciliar la vida laboral y familiar sin estrés.
+
+
+## 🌟 **¿Cómo Funciona la Flexibilidad Horaria?**
+
+1. **🌅 Tú Eliges Cuándo Comenzar el Día**:  
+   - **Entrada**: Entre las **8:00 y las 9:30**.  
+   - **Salida**: Según la hora de entrada, pero siempre cumpliendo 8 horas.  
+
+2. **🏠 Teletrabajo Tres Días a la Semana**:  
+   - **Días de teletrabajo**: Lunes, miércoles y viernes.  
+   - Trabaja desde casa, en pijama o con tu mascota al lado. Lo importante es cumplir con tus tareas.  
+
+3. **🍵 Pausas a tu Ritmo**:  
+   - Tienes **30 minutos de descanso diario**. ¿Prefieres una pausa larga o dos más cortas? ¡Tú decides!  
+
+4. **📅 Reuniones Inteligentes**:  
+   - Las reuniones importantes solo se programan en los días de oficina (martes y jueves).  
+
+5. **🚨 Emergencias Familiares**:  
+   - ¿Tienes un imprevisto? No pasa nada. Avísanos con antelación y ajustaremos tu horario.
+
+## 🛠️ **¿Cómo lo Organizamos?**
+
+1. **📲 Registro Fácil**:  
+   - Usa nuestra app de fichaje para marcar tu entrada y salida. ¡Sin estrés!  
+   - Tu jefe revisará las horas semanales (y confía en ti para cumplirlas).  
+
+2. **📆 Calendario Compartido**:  
+   - Indica tu disponibilidad para que todos sepamos cuándo conectarte para reuniones o proyectos en equipo.  
+
+3. **⏰ Horas Clave para el Equipo**:  
+   - Estaremos **todos disponibles entre las 10:00 y las 14:00**. Así garantizamos reuniones rápidas y trabajo colaborativo.
+
+## 💡 **¿Cómo Ayudamos a Conciliar?**
+
+1. **Menos Carretera, Más Vida**:  
+   - Con tres días de teletrabajo, ganas tiempo para ti y tu familia.  
+
+2. **Formación Dentro del Horario**:  
+   - ¿Quieres aprender algo nuevo? ¡Nos encargamos! La formación se integra en tu jornada, para que no sacrifiques tu tiempo libre.  
+
+3. **Adiós a los Correos Nocturnos**:  
+   - Cuando terminas tu jornada, desconectas. Nada de correos ni mensajes fuera de tu horario.  
+
+4. **Trabajo por Resultados**:  
+   - Lo importante es que cumplas tus objetivos. Si necesitas ajustar tu horario, hazlo con libertad.  
+
+
+## 🤩 **¿Por Qué Te Encantará?**
+- Más tiempo para tu familia, hobbies o simplemente para no hacer nada.  
+- Menos estrés y más libertad para organizarte.  
+- La confianza de saber que trabajas en una empresa que valora tu bienestar.
+
+---
+
+
+4. Gestionar situaciones de sobrecarga de trabajo
 Planificar el uso de horas extraordinarias si el proyecto lo exige, respetando el límite anual.
 Proponer alternativas para compensar las horas extras.
 
