@@ -101,8 +101,57 @@ Detallar cómo organizar esta formación sin afectar al proyecto.
 Garantizar los días de vacaciones al año.
 Diseñar un calendario que asegure que todos los empleados puedan disfrutar de sus vacaciones sin impactar negativamente en el proyecto.
 
-6. Garantizar el cumplimiento de la normativa en teletrabajo
+# 6. Garantizar el cumplimiento de la normativa en teletrabajo
 Redactar un documento donde se recojan los derechos de los trabajadores en modalidad de teletrabajo/Compensación por gastos .
+## Documento sobre los Derechos de los Trabajadores en Modalidad de Teletrabajo
+
+### Introducción
+Este documento establece los derechos de los trabajadores que trabajan en teletrabajo, cumpliendo con la normativa laboral vigente. La empresa **[Nombre de la Empresa]** garantiza condiciones de trabajo dignas, justas y acordes con las leyes aplicables.
+
+### 1. Definición del Teletrabajo
+El teletrabajo es una forma de organización laboral en la que el empleado desempeña sus tareas fuera de las instalaciones físicas de la empresa, utilizando medios tecnológicos para cumplir con sus responsabilidades.
+
+### 2. Derechos de los Trabajadores en Teletrabajo
+
+#### 2.1 Derecho a la Igualdad de Condiciones
+Los teletrabajadores tendrán los mismos derechos que los empleados que desempeñan su labor de manera presencial, incluyendo:
+- Salarios.
+- Formación.
+- Promociones.
+- Acceso a beneficios sociales.
+- Protección en materia de salud y seguridad laboral.
+
+#### 2.2 Derecho a la Desconexión Digital
+Los teletrabajadores tienen derecho a desconectarse de los dispositivos digitales y no realizar tareas laborales fuera de su horario establecido, salvo excepciones justificadas por razones de fuerza mayor.
+
+#### 2.3 Derecho a la Salud y Seguridad Laboral
+La empresa garantizará condiciones óptimas de seguridad y salud en el entorno de teletrabajo, proporcionando:
+- Información.
+- Asesoramiento sobre la correcta disposición del espacio de trabajo y los riesgos asociados.
+
+#### 2.4 Derecho a la Compensación por Gastos
+La empresa compensará a los trabajadores los gastos razonables en que incurran como consecuencia del teletrabajo, incluyendo:
+- **Internet y electricidad**: Compensación proporcional al uso destinado al teletrabajo.
+- **Equipos y materiales**: Provisión o reembolso por equipos tecnológicos necesarios (ordenadores, teléfonos, impresoras, etc.) y consumibles (papel, tinta, entre otros).
+- **Otros gastos**: Cualquier otro gasto esencial para la ejecución del trabajo deberá ser comunicado y aprobado por la empresa.
+
+#### 2.5 Derecho a la Formación
+La empresa garantizará el acceso a formación continua, especialmente en el uso de herramientas tecnológicas necesarias para el teletrabajo.
+
+#### 2.6 Protección de Datos
+La empresa asegurará la confidencialidad y protección de los datos manejados en el entorno de teletrabajo, proporcionando directrices claras al respecto.
+
+### 3. Procedimiento para la Compensación de Gastos
+1. **Solicitud de compensación**: El empleado deberá presentar un informe mensual detallando los gastos realizados, adjuntando facturas o comprobantes.
+2. **Revisión**: La empresa verificará los documentos presentados en un plazo de **[indicar plazo, por ejemplo, 15 días hábiles]**.
+3. **Pago**: La compensación será abonada junto con la nómina o mediante transferencia independiente en un plazo no mayor a **[indicar plazo]**.
+
+### 4. Resolución de Conflictos
+Cualquier conflicto relacionado con la aplicación de este documento será resuelto de conformidad con la normativa laboral vigente o mediante los procedimientos internos de resolución de conflictos de la empresa.
+
+### 5. Aceptación del Documento
+Este documento será firmado por ambas partes para garantizar el cumplimiento de lo estipulado.
+
 
 Horario flexible.
 
