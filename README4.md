@@ -42,7 +42,7 @@ Pausa durante la jornada.
 Distribución del teletrabajo (3 días semanales) y días presenciales.
 
 
-### Horario Personal (Ejemplo) para los Programadores
+### Horario Personal para los Programadores
 
 | **Día**         | **Horario**        | **Lugar**     | **Pausa**        | **Actividad Principal**                           |
 |------------------|--------------------|---------------|------------------|--------------------------------------------------|
