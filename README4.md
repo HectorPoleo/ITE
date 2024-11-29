@@ -117,7 +117,7 @@ Hacer que el trabajo se adapte a la vida de los empleados, no al revés. Este pr
 ---
 
 
-4. Gestionar situaciones de sobrecarga de trabajo
+# 3. Gestionar situaciones de sobrecarga de trabajo
 Planificar el uso de horas extraordinarias si el proyecto lo exige, respetando el límite anual.
 Proponer alternativas para compensar las horas extras.
 
@@ -137,7 +137,7 @@ Proponer alternativas para compensar las horas extras.
 
 ---
 
-4. Incorporar formación dentro de la jornada laboral
+# 4. Incorporar formación dentro de la jornada laboral
 Diseñar un plan que incluya formación en nuevas tecnologías, contabilizándolo como tiempo de trabajo efectivo.
 Detallar cómo organizar esta formación sin afectar al proyecto.
 
