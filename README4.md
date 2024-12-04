@@ -197,7 +197,7 @@ Redactar un documento donde se recojan los derechos de los trabajadores en modal
 ## Documento sobre los Derechos de los Trabajadores en Modalidad de Teletrabajo
 
 ### Introducción
-Este documento establece los derechos de los trabajadores que trabajan en teletrabajo, cumpliendo con la normativa laboral vigente. La empresa **[Nombre de la Empresa]** garantiza condiciones de trabajo dignas, justas y acordes con las leyes aplicables.
+Este documento establece los derechos de los trabajadores que trabajan en teletrabajo, cumpliendo con la normativa laboral vigente. La empresa garantiza condiciones de trabajo dignas, justas y acordes con las leyes aplicables.
 
 ### 1. Definición del Teletrabajo
 El teletrabajo es una forma de organización laboral en la que el empleado desempeña sus tareas fuera de las instalaciones físicas de la empresa, utilizando medios tecnológicos para cumplir con sus responsabilidades.
