@@ -243,7 +243,7 @@ Cualquier conflicto relacionado con la aplicación de este documento será resue
 ### 5. Aceptación del Documento
 Este documento será firmado por ambas partes para garantizar el cumplimiento de lo estipulado.
 
-
+---
 Horario flexible.
 
 Registro de la jornada laboral.
