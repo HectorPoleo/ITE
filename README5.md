@@ -1,70 +1,81 @@
-# Informe de Proyecto: **Análisis de Resultados**
+# Contexto del Supuesto Práctico
 
-## Introducción
+**Contexto:**
+Imaginen que son un grupo de tres estudiantes recién titulados del **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)** o **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Han decidido colaborar en un proyecto propuesto por una empresa emergente de tecnología llamada **TechNova Solutions S.L.**, especializada en el desarrollo de aplicaciones web y multiplataforma para startups en crecimiento.
 
-En este informe se presenta el análisis de los resultados obtenidos de la investigación realizada durante el mes de diciembre. El objetivo fue examinar los patrones de comportamiento de los usuarios en la plataforma web, enfocándose en las métricas clave.
-
----
-
-## **Metodología**
-
-1. **Muestra:**
-   - Se seleccionaron 500 usuarios activos de la plataforma.
-   - Periodo de análisis: **1 al 31 de diciembre de 2024.**
-
-2. **Herramientas utilizadas:**
-   - **Google Analytics** para la recolección de datos.
-   - **Tableau** para la visualización de resultados.
+La empresa necesita cubrir varias vacantes con perfiles específicos y ha contactado con vuestro grupo para evaluar cómo gestionan las necesidades laborales del proyecto.
 
 ---
 
-## **Resultados Principales**
-
-### 1. **Número de visitas**
-
-   - **Visitas totales:** 45,000 visitas
-   - **Usuarios únicos:** 30,000 usuarios
-
-### 2. **Duración promedio de sesión**
-
-   - **Duración promedio:** 5 minutos y 12 segundos
-
-### 3. **Tasa de rebote**
-   - **Tasa de rebote:** 60%
-
-### 4. **Fuentes de tráfico**
-   - **Orgánico:** 50%
-   - **Directo:** 30%
-   - **Referido:** 10%
-   - **Redes sociales:** 10%
+## **Objetivo del Supuesto**
+Deben identificar los tipos de **contratos laborales** que mejor se ajustan a las circunstancias planteadas, redactar los contratos correspondientes y justificar su elección en base a la **normativa vigente en España**.
 
 ---
 
-## **Análisis de Datos**
+## **Desarrollo del Supuesto**
 
-- El tráfico principal proviene de fuentes orgánicas, lo cual indica una buena optimización en motores de búsqueda.
-- La tasa de rebote es relativamente alta, lo que sugiere que los usuarios podrían no estar encontrando lo que buscan o que la interfaz necesita mejoras.
-- La duración promedio de la sesión es positiva, pero se recomienda trabajar en la retención de los usuarios a largo plazo.
+### **Reto 1: Análisis del Proyecto y Definición de Roles**
 
----
+#### **Descripción del Proyecto:**
+TechNova Solutions S.L. ha encargado el desarrollo de una aplicación multiplataforma para la gestión de **reservas de coworking**. El proyecto tiene una duración estimada de **seis meses**, con posibilidad de ampliación en función de los resultados.
 
-## **Conclusiones**
+#### **Roles necesarios:**
+- **Programador Frontend:** Se encargará del diseño de la interfaz de usuario utilizando tecnologías como **HTML**, **CSS** y **React**.
+- **Programador Backend:** Desarrollará la lógica del servidor utilizando **Node.js** y bases de datos como **MongoDB**.
+- **Tester y Documentador:** Se encargará de las pruebas funcionales y de crear la documentación técnica.
 
-- Es necesario **mejorar la experiencia del usuario** para reducir la tasa de rebote.
-- Se debe seguir optimizando el contenido y las estrategias de **SEO** para aumentar el tráfico orgánico.
-- La **interfaz de usuario** debe actualizarse para mejorar la retención.
-
----
-
-## **Recomendaciones**
-
-- **A/B Testing** en páginas clave.
-- Mejorar la accesibilidad móvil.
-- Revisión de los procesos de conversión de usuarios.
+#### **Tarea:**
+Como equipo, deben identificar qué tipos de contrato serían más adecuados para estos perfiles, teniendo en cuenta aspectos como:
+- Duración del proyecto.
+- Costes para la empresa.
+- Seguridad laboral para los trabajadores.
+- Legislación vigente en materia de contratación.
 
 ---
 
-## **Referencias**
+### **Reto 2: Redacción y Formalización de Contratos**
 
-1. Google Analytics (2024). *Guía de métricas básicas*. Recuperado de: [enlace](#)
-2. Tableau Software (2024). *Análisis de comportamiento web*. Recuperado de: [enlace](#)
+#### **Descripción de la Tarea:**
+Redactar **tres contratos laborales**, uno para cada perfil, en función de las decisiones tomadas en el Reto 1. Los contratos deben incluir los siguientes elementos:
+- Tipo de contrato (temporal, indefinido, en prácticas, etc.).
+- Duración y período de prueba.
+- Jornada laboral y salario.
+- Derechos y obligaciones de las partes.
+
+#### **Requisitos:**
+- Usar como referencia los **modelos oficiales de contratos** del **SEPE**.
+- Justificar por qué elegiste cada tipo de contrato en función del perfil y las necesidades del proyecto.
+
+---
+
+### **Reto 3: Gestión de Situaciones Reales**
+
+#### **Caso 1:**
+A mitad del proyecto, la empresa informa de que uno de los perfiles a elegir será necesario para más allá de los seis meses iniciales. Proponer una **solución contractual**, ajustada a la normativa, para mantener a este trabajador en plantilla.
+
+#### **Caso 2:**
+Uno de los empleados solicita una **reducción de jornada** para compaginar el trabajo con estudios. Identificar cómo debería modificarse el contrato para cumplir con sus derechos y necesidades.
+
+#### **Caso 3:**
+TechNova Solutions S.L. recibe una **subvención para fomentar la contratación indefinida** de jóvenes menores de 30 años. ¿Cómo aprovecharás esta oportunidad para beneficiar tanto a los trabajadores como a la empresa?
+
+---
+
+## **Entregables:**
+El grupo debe entregar el siguiente material:
+1. **Informe final** que incluya:
+   - Justificación de los tipos de contratos seleccionados.
+   - Los contratos redactados y sus características principales.
+   - Soluciones propuestas para los casos del Reto 3.
+2. **Presentación oral:** Preparar una breve exposición donde expliquen las decisiones al resto de la clase.
+
+---
+
+## **Criterios de Evaluación:**
+1. **Comprensión de la normativa:** Nivel de conocimiento demostrado sobre los tipos de contratos laborales en España.
+2. **Adaptación a las necesidades del proyecto:** Capacidad para seleccionar y justificar los contratos más adecuados en cada caso.
+3. **Claridad y precisión en la redacción de contratos.**
+4. **Resolución de situaciones prácticas:** Soluciones innovadoras y ajustadas a la legislación para los casos del Reto 3.
+5. **Trabajo en equipo:** Reparto equitativo de tareas y coordinación en la presentación final.
+
+
