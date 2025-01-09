@@ -31,6 +31,13 @@ Como equipo, deben identificar qué tipos de contrato serían más adecuados par
 - Seguridad laboral para los trabajadores.
 - Legislación vigente en materia de contratación.
 
+**Tipos de contrato**:
+- **Programador Frontend** y **Programador Backend**: Contrato **temporal por obra o servicio**. Este tipo de contrato es adecuado para proyectos de duración determinada, ajustándose a la necesidad temporal del proyecto.
+- **Tester y Documentador**: Contrato **temporal por obra o servicio** también, dado que su rol se alinea con las fases del proyecto.
+
+**Justificación**:  
+Los tres roles requieren un contrato temporal debido a la duración del proyecto, lo que ofrece flexibilidad a la empresa, mientras que los trabajadores cuentan con los derechos básicos.
+
 ---
 
 ### **Reto 2: Redacción y Formalización de Contratos**
@@ -46,6 +53,30 @@ Redactar **tres contratos laborales**, uno para cada perfil, en función de las 
 - Usar como referencia los **modelos oficiales de contratos** del **SEPE**.
 - Justificar por qué elegiste cada tipo de contrato en función del perfil y las necesidades del proyecto.
 
+### **Contrato para Programador Frontend**
+- **Tipo**: Contrato temporal por obra o servicio.
+- **Duración**: 6 meses, con posible ampliación.
+- **Jornada**: 40 horas semanales.
+- **Salario**: 2.500 € mensuales.
+- **Derechos**: Salario, seguridad social, vacaciones.
+- **Justificación**: La naturaleza temporal del trabajo se ajusta a este tipo de contrato.
+
+### **Contrato para Programador Backend**
+- **Tipo**: Contrato temporal por obra o servicio.
+- **Duración**: 6 meses, con posible ampliación.
+- **Jornada**: 40 horas semanales.
+- **Salario**: 2.700 € mensuales.
+- **Derechos**: Salario, seguridad social, vacaciones.
+- **Justificación**: El trabajo está vinculado a un proyecto concreto, lo que justifica un contrato temporal.
+
+### **Contrato para Tester y Documentador**
+- **Tipo**: Contrato temporal por obra o servicio.
+- **Duración**: 6 meses, con posible ampliación.
+- **Jornada**: 40 horas semanales.
+- **Salario**: 2.200 € mensuales.
+- **Derechos**: Salario, seguridad social, vacaciones.
+- **Justificación**: El trabajo se realiza en fases del proyecto, por lo que un contrato temporal es adecuado.
+
 ---
 
 ### **Reto 3: Gestión de Situaciones Reales**
@@ -59,6 +90,28 @@ Uno de los empleados solicita una **reducción de jornada** para compaginar el t
 #### **Caso 3:**
 TechNova Solutions S.L. recibe una **subvención para fomentar la contratación indefinida** de jóvenes menores de 30 años. ¿Cómo aprovecharás esta oportunidad para beneficiar tanto a los trabajadores como a la empresa?
 
+### **Caso 1: Necesidad de mantener a un trabajador más allá de los seis meses**
+
+- **Solución**: Convertir el contrato temporal en **indefinido** si la necesidad del trabajador persiste. Esto otorga estabilidad al trabajador y permite a la empresa retener talento clave.
+- **Justificación**: La empresa puede necesitar al trabajador a largo plazo, por lo que el contrato indefinido ofrece seguridad tanto a la empresa como al empleado.
+
+### **Caso 2: Reducción de jornada para compaginar trabajo con estudios**
+
+- **Solución**: Modificar el contrato para una **reducción de jornada**, ajustando el salario proporcionalmente.
+- **Justificación**: La legislación española permite a los trabajadores reducir su jornada para estudios, manteniendo sus derechos laborales. Esto facilita la conciliación entre trabajo y educación.
+
+### **Caso 3: Subvención para contratación indefinida de jóvenes menores de 30 años**
+
+- **Solución**: Convertir los contratos temporales de trabajadores menores de 30 años en **contratos indefinidos**, aprovechando la subvención.
+- **Justificación**: Esta medida beneficia tanto a la empresa (con la subvención) como a los trabajadores (con estabilidad laboral). Es una oportunidad para reforzar el equipo con jóvenes a largo plazo.
+
+---
+
+## Resumen Final:
+
+1. **Reto 1**: Se elige un **contrato temporal** para todos los perfiles, ajustado a la duración del proyecto, garantizando flexibilidad.
+2. **Reto 2**: Los contratos temporales están bien definidos y cumplen con las normativas, ofreciendo derechos básicos a los trabajadores.
+3. **Reto 3**: Se plantean soluciones para situaciones reales: conversión a contrato **indefinido** si se extiende la necesidad del trabajador, reducción de jornada para estudios, y aprovechamiento de subvenciones para contratación indefinida de jóvenes.
 ---
 
 ## **Entregables:**
