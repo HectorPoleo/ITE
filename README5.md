@@ -79,7 +79,7 @@ Redactar **tres contratos laborales**, uno para cada perfil, en función de las 
 - **Jornada**: 40 horas semanales.
 - **Salario**: 2.500 € mensuales.
 - **Derechos**: Salario, seguridad social, vacaciones.
-- **Justificación**: La naturaleza temporal del trabajo se ajusta a este tipo de contrato.
+- **Justificación**: 2.500 € mensuales es un salario dentro del rango medio-alto para un programador frontend con experiencia en España. Este salario es competitivo para atraer talento cualificado, pero no excesivo, considerando la naturaleza temporal del contrato.
 
 ### **Contrato para Programador Backend**
 - **Tipo**: Contrato temporal por obra o servicio.
@@ -87,15 +87,16 @@ Redactar **tres contratos laborales**, uno para cada perfil, en función de las 
 - **Jornada**: 40 horas semanales.
 - **Salario**: 2.700 € mensuales.
 - **Derechos**: Salario, seguridad social, vacaciones.
-- **Justificación**: El trabajo está vinculado a un proyecto concreto, lo que justifica un contrato temporal.
+- **Justificación**: Dado el nivel de especialización y responsabilidad, el salario para el programador backend es ligeramente superior (2.700 €), lo que refleja el valor añadido que este profesional aporta al proyecto. Además, un salario más alto es importante para atraer a expertos con experiencia en diseño de sistemas complejos y optimización del rendimiento.
 
 ### **Contrato para Tester y Documentador**
 - **Tipo**: Contrato temporal por obra o servicio.
 - **Duración**: 6 meses, con posible ampliación.
 - **Jornada**: 40 horas semanales.
-- **Salario**: 2.500 € mensuales.
+- **Salario**: 2.200 € mensuales.
 - **Derechos**: Salario, seguridad social, vacaciones.
-- **Justificación**: El trabajo se realiza en fases del proyecto, por lo que un contrato temporal es adecuado.
+- **Justificación**: 2.200 € es un salario razonable para este puesto, teniendo en cuenta que se requiere habilidad para la ejecución de pruebas y la creación de documentación técnica, pero no se necesita un nivel de especialización o responsabilidad tan alto como en los puestos de programación. Este salario está alineado con el mercado para un tester con experiencia básica a intermedia. Un tester puede trabajar remotamente porque su rol se basa en herramientas digitales y tareas que no requieren presencia física constante, como ejecutar pruebas, reportar errores y colaborar en línea con el equipo. Esto permite mayor productividad, flexibilidad y ahorro de tiempo y recursos.
+Día ideal para acudir a la empresa sería el miércoles, ya que está en el medio de la semana laboral, permitiendo reuniones estratégicas, sincronización de avances y planificación de ajustes para cerrar la semana de manera eficiente.
 
 ---
 
