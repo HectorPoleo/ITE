@@ -1,3 +1,23 @@
+<div align="justify">
+
+   # __UT 08. EL CONTRATO DE TRABAJO. MODALIDADES. TIPOS.__
+    
+***\~\~Integrantes de la actividad:\~\~***
+
+- ___Adrian Rodríguez___
+
+  ![Scolipede](https://img.pokemondb.net/sprites/sword-shield/normal/scolipede.png)
+
+- ___Diego Febles___
+
+  [![Tyrantrum](https://img.pokemondb.net/sprites/sword-shield/normal/tyrantrum.png)](https://pokemondb.net/pokedex/tyrantrum) 
+  
+- ___Héctor Poleo___
+
+  [![Leafeon](https://img.pokemondb.net/sprites/sword-shield/normal/leafeon.png)](https://pokemondb.net/pokedex/leafeon)
+
+
+  
 # Contexto del Supuesto Práctico
 
 **Contexto:**
