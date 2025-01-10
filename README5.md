@@ -93,7 +93,7 @@ Redactar **tres contratos laborales**, uno para cada perfil, en función de las 
 - **Tipo**: Contrato temporal por obra o servicio.
 - **Duración**: 6 meses, con posible ampliación.
 - **Jornada**: 40 horas semanales.
-- **Salario**: 2.200 € mensuales.
+- **Salario**: 2.500 € mensuales.
 - **Derechos**: Salario, seguridad social, vacaciones.
 - **Justificación**: El trabajo se realiza en fases del proyecto, por lo que un contrato temporal es adecuado.
 
