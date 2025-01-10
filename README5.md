@@ -34,7 +34,7 @@ Deben identificar los tipos de **contratos laborales** que mejor se ajustan a la
 
 ## **Desarrollo del Supuesto**
 
-### **Reto 1: Análisis del Proyecto y Definición de Roles**
+### __**Reto 1: Análisis del Proyecto y Definición de Roles**__
 
 #### **Descripción del Proyecto:**
 TechNova Solutions S.L. ha encargado el desarrollo de una aplicación multiplataforma para la gestión de **reservas de coworking**. El proyecto tiene una duración estimada de **seis meses**, con posibilidad de ampliación en función de los resultados.
@@ -60,7 +60,7 @@ Los tres roles requieren un contrato temporal debido a la duración del proyecto
 
 ---
 
-### **Reto 2: Redacción y Formalización de Contratos**
+### __**Reto 2: Redacción y Formalización de Contratos**__
 
 #### **Descripción de la Tarea:**
 Redactar **tres contratos laborales**, uno para cada perfil, en función de las decisiones tomadas en el Reto 1. Los contratos deben incluir los siguientes elementos:
@@ -99,7 +99,7 @@ Redactar **tres contratos laborales**, uno para cada perfil, en función de las 
 
 ---
 
-### **Reto 3: Gestión de Situaciones Reales**
+### __**Reto 3: Gestión de Situaciones Reales**__
 
 #### **Caso 1:**
 A mitad del proyecto, la empresa informa de que uno de los perfiles a elegir será necesario para más allá de los seis meses iniciales. Proponer una **solución contractual**, ajustada a la normativa, para mantener a este trabajador en plantilla.
