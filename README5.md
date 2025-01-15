@@ -97,7 +97,7 @@ Redactar **tres contratos laborales**, uno para cada perfil, en función de las 
 - **Derechos**: Salario, seguridad social, vacaciones.
 - **Justificación**: 2.200 € es un salario razonable para este puesto, teniendo en cuenta que se requiere habilidad para la ejecución de pruebas y la creación de documentación técnica, pero no se necesita un nivel de especialización o responsabilidad tan alto como en los puestos de programación. Este salario está alineado con el mercado para un tester con experiencia básica a intermedia. Un tester puede trabajar remotamente porque su rol se basa en herramientas digitales y tareas que no requieren presencia física constante, como ejecutar pruebas, reportar errores y colaborar en línea con el equipo. Esto permite mayor productividad, flexibilidad y ahorro de tiempo y recursos.
 El día ideal para acudir a la empresa sería el miércoles, ya que está en el medio de la semana laboral, permitiendo reuniones estratégicas, sincronización de avances y planificación de ajustes para cerrar la semana de manera eficiente.
-
+<scr="Contratos/Progrmador Beckend"
 ---
 
 ### __**Reto 3: Gestión de Situaciones Reales**__
