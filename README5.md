@@ -50,13 +50,14 @@ Como equipo, deben identificar qué tipos de contrato serían más adecuados par
 - Costes para la empresa.
 - Seguridad laboral para los trabajadores.
 - Legislación vigente en materia de contratación.
+### Programador Frontend y Programador Backend: Contrato temporal por obra o servicio
+El contrato temporal por obra o servicio es adecuado para los roles de Programador Frontend y Programador Backend, ya que su trabajo depende de la duración del proyecto. Este tipo de contrato permite ajustar la contratación a las necesidades puntuales de desarrollo de funcionalidades específicas, sin compromiso a largo plazo.
 
-**Tipos de contrato**:
-- **Programador Frontend** y **Programador Backend**: Contrato **temporal por obra o servicio**. Este tipo de contrato es adecuado para proyectos de duración determinada, ajustándose a la necesidad temporal del proyecto.
-- **Tester y Documentador**: Contrato **temporal por obra o servicio** también, dado que su rol se alinea con las fases del proyecto.
+### Tester y Documentador: Contrato temporal por obra o servicio
+El contrato temporal también es apropiado para los roles de Tester y Documentador, ya que su intervención se limita a fases concretas del proyecto, como pruebas y documentación. Al igual que en el caso de los programadores, este contrato ofrece flexibilidad en función de la duración del proyecto.
 
-**Justificación**:  
-Los tres roles requieren un contrato temporal debido a la duración del proyecto, lo que ofrece flexibilidad a la empresa, mientras que los trabajadores cuentan con los derechos básicos.
+### Justificación
+Los tres roles requieren un contrato temporal debido a la naturaleza temporal de sus tareas dentro del proyecto. Este tipo de contrato proporciona flexibilidad tanto a la empresa como a los trabajadores, garantizando los derechos laborales durante la duración del proyecto sin un compromiso a largo plazo.
 
 ---
 
