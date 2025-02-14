@@ -7,7 +7,7 @@
 - ___Adrian Rodríguez___
 
   ![Scolipede](https://img.pokemondb.net/sprites/sword-shield/normal/scolipede.png)
-  ![Darkrai](https://img.pokemondb.net/sprites/diamond-pearl/normal/darkrai.png))
+  ![Darkrai](https://img.pokemondb.net/sprites/diamond-pearl/normal/darkrai.png)
 
 - ___Diego Febles___
 
