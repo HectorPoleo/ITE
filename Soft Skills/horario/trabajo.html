@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Fichajes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="main-title">Sistema de Fichajes</h1>
+            <div class="language-switcher">
+                <button onclick="switchLanguage('en')">Inglés</button>
+                <button onclick="switchLanguage('es')">Español</button>
+            </div>
+        </header>
+        <div class="section" id="worker-form">
+            <h2 id="add-employee-title">Añadir Trabajador</h2>
+            <label for="worker-name" id="employee-name-label">Nombre del Trabajador:</label>
+            <input type="text" id="worker-name" required>
+            <button onclick="addWorker()" id="add-employee-button">Añadir Trabajador</button>
+        </div>
+
+        <div class="section" id="worker-list">
+            <h2 id="employee-list-title">Lista de Trabajadores y Horas Totales</h2>
+            <ul id="worker-entries"></ul>
+        </div>
+
+        <div class="section" id="shift-form">
+            <h2 id="add-shift-title">Añadir Horario</h2>
+            <label for="selected-worker" id="select-employee-label">Seleccionar Trabajador:</label>
+            <select id="selected-worker" required>
+                <option value="" disabled selected>Selecciona un trabajador</option>
+            </select>
+            <label for="work-date" id="work-date-label">Fecha de Trabajo (AAAA-MM-DD):</label>
+            <input type="date" id="work-date" required>
+            <label for="entry-time" id="start-time-label">Hora de Entrada (HH:MM):</label>
+            <input type="time" id="entry-time" required>
+            <label for="exit-time" id="end-time-label">Hora de Salida (HH:MM):</label>
+            <input type="time" id="exit-time" required>
+            <button onclick="addShift()" id="add-shift-button">Añadir Horario</button>
+        </div>
+
+        <div class="section" id="shift-table" style="display:none;">
+            <h2 id="worked-shifts-title"></h2>
+            <table id="schedule-table">
+                <thead>
+                    <tr>
+                        <th>Fecha</th>
+                        <th>Hora de Entrada</th>
+                        <th>Hora de Salida</th>
+                        <th>Horas Trabajadas</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

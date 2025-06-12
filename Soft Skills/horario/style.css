@@ -1,0 +1,249 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #ff0000, #000000);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+.container {
+    background-color: rgba(146, 122, 122, 0.7);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    overflow: hidden;
+    width: 90%;
+    max-width: 800px;
+    padding: 20px;
+    box-sizing: border-box;
+    backdrop-filter: blur(10px);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+    color: #0082fc;
+    text-shadow: 2px 2px 4px rgba(133, 116, 228, 0.5);
+}
+
+.language-switcher {
+    margin-top: 10px;
+}
+
+.language-switcher button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #0059ff;
+    color: #0805b3;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.language-switcher button:hover {
+    background-color: #63f700;
+    transform: scale(1.05);
+    box-shadow: 0 6px 8px rgba(122, 226, 74, 0.4);
+}
+
+.section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+input, select {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ffe6f5;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+input:focus, select:focus {
+    border-color: #fcfcfc;
+}
+
+input::placeholder {
+    color: #fff;
+    opacity: 0.7;
+}
+
+button {
+    margin-top: 20px;
+    padding: 15px 30px;
+    background-color: #ffffff;
+    color: #000;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+    background-color: #f8f8f8;
+    transform: scale(1.05);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.4);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: background 0.3s, transform 0.3s;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+li:hover {
+    background: rgba(0, 0, 0, 0.6);
+    transform: scale(1.02);
+}
+
+li span {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #fffdfe;
+    text-align: left;
+    padding: 12px;
+}
+
+th {
+    background-color: #ffffff;
+    color: #000;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 768px) {
+    body {
+        height: auto;
+        display: block;
+    }
+
+    .container {
+        width: 95%;
+        padding: 15px;
+    }
+
+    h1, h2 {
+        font-size: 24px;
+    }
+
+    .language-switcher button {
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+
+    .section {
+        padding: 15px;
+    }
+
+    label {
+        font-size: 16px;
+    }
+
+    input, select, button {
+        font-size: 16px;
+        padding: 12px;
+    }
+
+    ul li {
+        font-size: 16px;
+        padding: 12px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1, h2 {
+        font-size: 20px;
+    }
+
+    .language-switcher button {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+
+    .section {
+        padding: 10px;
+    }
+
+    label {
+        font-size: 14px;
+    }
+
+    input, select, button {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    ul li {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    table {
+        font-size: 12px;
+    }
+}
