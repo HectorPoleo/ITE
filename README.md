@@ -6,6 +6,6 @@
 
   [![Leafeon](https://img.pokemondb.net/sprites/sword-shield/normal/leafeon.png)](https://pokemondb.net/pokedex/leafeon)
 
-# Contenido actual
+## Contenido actual
 Principalmente ficheros en Markdown dirigido a las distintas tareas del curso  
 Carpeta con diseño web de mis soft skills
