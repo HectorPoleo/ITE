@@ -8,4 +8,7 @@
 
 ## Contenido actual
 Principalmente ficheros en Markdown dirigido a las distintas tareas del curso  
+
+
 Carpeta con diseño web de mis soft skills
+https://github.com/HectorPoleo/ITE/tree/main/tareas/Soft%20Skills
